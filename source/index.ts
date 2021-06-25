@@ -9,11 +9,25 @@ import { parseResponse } from "./core/parseResponse";
  * @param text string, text to be parsed
  * @param options ILinkPreviewOptions
  */
+interface ILinkPreviewOptions {
+  headers?: Record<string, string>;
+  imagesPropertyType?: string;
+  proxyUrl?: string;
+}
 
+interface IPrefetchedResource {
+  headers: Record<string, string>;
+  status?: number;
+  imagesPropertyType?: string;
+  proxyUrl?: string;
+  url: string;
+  data: string;
+}
 export async function getLinkPreview(
   text: string,
   options?: ILinkPreviewOptions
 ) {
+  console.log("Getting link preview for ", text);
   if (!text || typeof text !== `string`) {
     throw new Error(`link-preview-js did not receive a valid url or text`);
   }

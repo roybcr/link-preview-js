@@ -8,6 +8,20 @@ import { getImages } from "./getImages";
 import { getVideos } from "./getVideos";
 import { getDefaultFavicon } from "./getDefaultFavicon";
 import { getFavicons } from "./getFavicons";
+interface ILinkPreviewOptions {
+  headers?: Record<string, string>;
+  imagesPropertyType?: string;
+  proxyUrl?: string;
+}
+
+interface IPrefetchedResource {
+  headers: Record<string, string>;
+  status?: number;
+  imagesPropertyType?: string;
+  proxyUrl?: string;
+  url: string;
+  data: string;
+}
 
 function parseImageResponse(url: string, contentType: string) {
   return {
@@ -36,7 +50,7 @@ function parseVideoResponse(url: string, contentType: string) {
   };
 }
 
-function parseApplicationResponse(url: string, contentType: string) {
+export function parseApplicationResponse(url: string, contentType: string) {
   return {
     url,
     mediaType: `application`,
