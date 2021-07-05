@@ -1,5 +1,5 @@
 import cheerio from "cheerio";
-import { CONSTANTS } from "../constants";
+import { CONSTANTS } from "../../constants";
 import { getTitle } from "./getMetaTags";
 import { getSiteName } from "./getSiteName";
 import { getDescription } from "./getDescription";

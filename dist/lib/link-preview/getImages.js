@@ -1,11 +1,8 @@
 "use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getImages = void 0;
-const url_1 = __importDefault(require("url"));
 const getMetaTags_1 = require("./getMetaTags");
+const resolveURL_1 = require("../../core/resolveURL");
 function getImages(doc, rootUrl, imagesPropertyType) {
     let images = [];
     let nodes;
@@ -20,7 +17,7 @@ function getImages(doc, rootUrl, imagesPropertyType) {
             if (node.type === `tag`) {
                 src = node.attribs.content;
                 if (src) {
-                    src = url_1.default.resolve(rootUrl, src);
+                    src = resolveURL_1.resolve(rootUrl, src);
                     images.push(src);
                 }
             }
@@ -29,7 +26,7 @@ function getImages(doc, rootUrl, imagesPropertyType) {
     if (images.length <= 0 && !imagesPropertyType) {
         src = doc(`link[rel=image_src]`).attr(`href`);
         if (src) {
-            src = url_1.default.resolve(rootUrl, src);
+            src = resolveURL_1.resolve(rootUrl, src);
             images = [src];
         }
         else {
@@ -42,7 +39,7 @@ function getImages(doc, rootUrl, imagesPropertyType) {
                         src = node.attribs.src;
                     if (src && !dic[src]) {
                         dic[src] = true;
-                        images.push(url_1.default.resolve(rootUrl, src));
+                        images.push(resolveURL_1.resolve(rootUrl, src));
                     }
                 });
             }

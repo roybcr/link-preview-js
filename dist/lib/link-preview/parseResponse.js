@@ -5,7 +5,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.parseResponse = exports.parseApplicationResponse = void 0;
 const cheerio_1 = __importDefault(require("cheerio"));
-const constants_1 = require("../constants");
+const constants_1 = require("../../constants");
 const getMetaTags_1 = require("./getMetaTags");
 const getSiteName_1 = require("./getSiteName");
 const getDescription_1 = require("./getDescription");

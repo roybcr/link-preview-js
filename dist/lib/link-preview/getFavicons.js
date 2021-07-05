@@ -1,10 +1,7 @@
 "use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getFavicons = void 0;
-const url_1 = __importDefault(require("url"));
+const resolveURL_1 = require("../../core/resolveURL");
 const getDefaultFavicon_1 = require("./getDefaultFavicon");
 function getFavicons(doc, rootUrl) {
     const images = [];
@@ -22,7 +19,7 @@ function getFavicons(doc, rootUrl) {
                 if (node.type === `tag`)
                     src = node.attribs.href;
                 if (src) {
-                    src = url_1.default.resolve(rootUrl, src);
+                    src = resolveURL_1.resolve(rootUrl, src);
                     images.push(src);
                 }
             });

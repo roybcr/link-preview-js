@@ -17,13 +17,14 @@ function bootstrap() {
         const promises = [];
         for (let i = 0; i < initialData.length; i++) {
             promises.push(index_1.getLinkPreview(initialData[i]));
-            console.log("Pushing " + i + "to the stacks");
+            console.log("Pushing " + i + "to the stack");
         }
-        const sl = promises.slice(0, 10);
+        const sl = promises.slice(230, 240);
         sl.forEach((s) => {
             Promise.resolve(s)
                 .then((x) => {
                 console.log("X", x);
+                return x;
             })
                 .catch((err) => console.error(err));
         });

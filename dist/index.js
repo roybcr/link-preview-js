@@ -12,7 +12,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.getPreviewFromContent = exports.getLinkPreview = void 0;
 const cross_fetch_1 = require("cross-fetch");
 const constants_1 = require("./constants");
-const parseResponse_1 = require("./core/parseResponse");
+const parseResponse_1 = require("./lib/link-preview/parseResponse");
 function getLinkPreview(text, options) {
     var _a;
     return __awaiter(this, void 0, void 0, function* () {

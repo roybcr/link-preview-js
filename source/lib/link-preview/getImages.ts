@@ -1,6 +1,5 @@
-import urlObj from "url";
 import { metaTag } from "./getMetaTags";
-
+import { resolve } from "../../core/resolveURL";
 export function getImages(
   doc: cheerio.Root,
   rootUrl: string,
@@ -21,7 +20,7 @@ export function getImages(
       if (node.type === `tag`) {
         src = node.attribs.content;
         if (src) {
-          src = urlObj.resolve(rootUrl, src);
+          src = resolve(rootUrl, src);
           images.push(src);
         }
       }
@@ -31,7 +30,7 @@ export function getImages(
   if (images.length <= 0 && !imagesPropertyType) {
     src = doc(`link[rel=image_src]`).attr(`href`);
     if (src) {
-      src = urlObj.resolve(rootUrl, src);
+      src = resolve(rootUrl, src);
       images = [src];
     } else {
       nodes = doc(`img`);
@@ -45,7 +44,7 @@ export function getImages(
             dic[src] = true;
             // width = node.attribs.width;
             // height = node.attribs.height;
-            images.push(urlObj.resolve(rootUrl, src));
+            images.push(resolve(rootUrl, src));
           }
         });
       }

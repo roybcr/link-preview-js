@@ -1,6 +1,6 @@
 import { fetch } from "cross-fetch";
 import { CONSTANTS } from "./constants";
-import { parseResponse } from "./core/parseResponse";
+import { parseResponse } from "./lib/link-preview/parseResponse";
 
 /**
  * Parses the text, extracts the first link it finds and does a HTTP request
