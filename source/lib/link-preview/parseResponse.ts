@@ -8,6 +8,7 @@ import { getImages } from "./getImages";
 import { getVideos } from "./getVideos";
 import { getDefaultFavicon } from "./getDefaultFavicon";
 import { getFavicons } from "./getFavicons";
+import { getAuthor } from "./getAuthor";
 interface ILinkPreviewOptions {
   headers?: Record<string, string>;
   imagesPropertyType?: string;
@@ -77,6 +78,7 @@ function parseTextResponse(
     images: getImages(doc, url, options.imagesPropertyType),
     videos: getVideos(doc),
     favicons: getFavicons(doc, url),
+    author: getAuthor(doc),
   };
 }
 

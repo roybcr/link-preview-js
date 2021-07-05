@@ -1,21 +1,44 @@
-import { seed } from "./seed";
+import express from "express";
+import cors from "cors";
+import dotenv from "dotenv";
+import { getLinkPreviewMiddleware } from "./middleware/getLinkPreviewMiddleware";
 import { getLinkPreview } from "./index";
 
-async function bootstrap() {
-  const initialData = await seed();
-  const promises: ReturnType<typeof getLinkPreview>[] = [];
-  for (let i = 0; i < initialData.length; i++) {
-    promises.push(getLinkPreview(initialData[i]));
-    console.log("Pushing " + i + "to the stack");
-  }
-  const sl = promises.slice(230, 240);
-  sl.forEach((s) => {
-    Promise.resolve(s)
-      .then((x) => {
-        console.log("X", x);
-        return x;
-      })
-      .catch((err) => console.error(err));
+dotenv.config();
+
+const main = async () => {
+  const PORT = process.env.PORT;
+  const app = express();
+
+  app.use(
+    cors({
+      origin: process.env.SERVER_URL,
+      credentials: true,
+    })
+  );
+
+  app.use(express.json());
+  app.use(express.urlencoded({ extended: true }));
+
+  app.get("/", (_req, res) => {
+    res.send("URL Processing Service");
   });
-}
-bootstrap();
+
+  app.post("/api/getpreview", getLinkPreviewMiddleware, (req, res) => {
+    const url = req.body.url;
+
+    getLinkPreview(url)
+      .then((response) => {
+        res.json(response);
+      })
+      .catch((err) => {
+        console.error(err);
+      });
+  });
+
+  app.listen(PORT, () => {
+    console.log("Listening on port " + PORT);
+  });
+};
+
+main();

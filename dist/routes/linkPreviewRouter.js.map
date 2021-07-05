@@ -1,0 +1,1 @@
+{"version":3,"file":"linkPreviewRouter.js","sourceRoot":"","sources":["../../source/routes/linkPreviewRouter.ts"],"names":[],"mappings":";;;;;;AAAA,sDAAmE;AACnE,qFAAkF;AAElF,MAAM,MAAM,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AACnB,QAAA,iBAAiB,GAAG,MAAM,CAAC,GAAG,CACzC,GAAG,EACH,mDAAwB,EACxB,CAAC,GAAY,EAAE,GAAa,EAAE,EAAE;IAC9B,MAAM,IAAI,GAAG,GAAG,CAAC,IAAI,CAAC;AACxB,CAAC,CACF,CAAC"}

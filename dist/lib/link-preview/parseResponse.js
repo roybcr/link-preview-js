@@ -14,6 +14,7 @@ const getImages_1 = require("./getImages");
 const getVideos_1 = require("./getVideos");
 const getDefaultFavicon_1 = require("./getDefaultFavicon");
 const getFavicons_1 = require("./getFavicons");
+const getAuthor_1 = require("./getAuthor");
 function parseImageResponse(url, contentType) {
     return {
         url,
@@ -59,6 +60,7 @@ function parseTextResponse(body, url, options = {}, contentType) {
         images: getImages_1.getImages(doc, url, options.imagesPropertyType),
         videos: getVideos_1.getVideos(doc),
         favicons: getFavicons_1.getFavicons(doc, url),
+        author: getAuthor_1.getAuthor(doc),
     };
 }
 function parseUnknownResponse(body, url, options = {}, contentType) {

@@ -1,0 +1,1 @@
+{"version":3,"file":"getAuthor.js","sourceRoot":"","sources":["../../../source/lib/link-preview/getAuthor.ts"],"names":[],"mappings":";;;AAAA,+CAA+C;AAE/C,SAAgB,SAAS,CAAC,GAAiB;IACzC,MAAM,MAAM,GACV,4BAAc,CAAC,GAAG,EAAE,QAAQ,EAAE,MAAM,CAAC;QACrC,4BAAc,CAAC,GAAG,EAAE,QAAQ,EAAE,MAAM,CAAC;QACrC,4BAAc,CAAC,GAAG,EAAE,WAAW,EAAE,UAAU,CAAC,CAAC;IAC/C,OAAO,MAAM,CAAC;AAChB,CAAC;AAND,8BAMC"}

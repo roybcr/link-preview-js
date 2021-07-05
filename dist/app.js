@@ -8,27 +8,41 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
-const seed_1 = require("./seed");
+const express_1 = __importDefault(require("express"));
+const cors_1 = __importDefault(require("cors"));
+const dotenv_1 = __importDefault(require("dotenv"));
+const getLinkPreviewMiddleware_1 = require("./middleware/getLinkPreviewMiddleware");
 const index_1 = require("./index");
-function bootstrap() {
-    return __awaiter(this, void 0, void 0, function* () {
-        const initialData = yield seed_1.seed();
-        const promises = [];
-        for (let i = 0; i < initialData.length; i++) {
-            promises.push(index_1.getLinkPreview(initialData[i]));
-            console.log("Pushing " + i + "to the stack");
-        }
-        const sl = promises.slice(230, 240);
-        sl.forEach((s) => {
-            Promise.resolve(s)
-                .then((x) => {
-                console.log("X", x);
-                return x;
-            })
-                .catch((err) => console.error(err));
+dotenv_1.default.config();
+const main = () => __awaiter(void 0, void 0, void 0, function* () {
+    const PORT = process.env.PORT;
+    const app = express_1.default();
+    app.use(cors_1.default({
+        origin: process.env.SERVER_URL,
+        credentials: true,
+    }));
+    app.use(express_1.default.json());
+    app.use(express_1.default.urlencoded({ extended: true }));
+    app.get("/", (_req, res) => {
+        res.send("URL Processing Service");
+    });
+    app.post("/api/getpreview", getLinkPreviewMiddleware_1.getLinkPreviewMiddleware, (req, res) => {
+        const url = req.body.url;
+        index_1.getLinkPreview(url)
+            .then((response) => {
+            res.json(response);
+        })
+            .catch((err) => {
+            console.error(err);
         });
     });
-}
-bootstrap();
+    app.listen(PORT, () => {
+        console.log("Listening on port " + PORT);
+    });
+});
+main();
 //# sourceMappingURL=app.js.map
