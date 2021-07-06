@@ -16,7 +16,7 @@ const parseResponse_1 = require("./lib/link-preview/parseResponse");
 function getLinkPreview(text, options) {
     var _a;
     return __awaiter(this, void 0, void 0, function* () {
-        console.log("Getting link preview for ", text);
+        console.log('Getting link preview for ', text);
         if (!text || typeof text !== `string`) {
             throw new Error(`link-preview-js did not receive a valid url or text`);
         }
@@ -29,22 +29,18 @@ function getLinkPreview(text, options) {
         }
         const fetchOptions = {
             headers: (_a = options === null || options === void 0 ? void 0 : options.headers) !== null && _a !== void 0 ? _a : {},
-            redirect: `follow`,
+            redirect: `follow`
         };
-        const fetchUrl = (options === null || options === void 0 ? void 0 : options.proxyUrl)
-            ? options.proxyUrl.concat(detectedUrl)
-            : detectedUrl;
+        const fetchUrl = (options === null || options === void 0 ? void 0 : options.proxyUrl) ? options.proxyUrl.concat(detectedUrl) : detectedUrl;
         const response = yield cross_fetch_1.fetch(fetchUrl, fetchOptions);
         const headers = {};
         response.headers.forEach((header, key) => {
             headers[key] = header;
         });
         const normalizedResponse = {
-            url: (options === null || options === void 0 ? void 0 : options.proxyUrl)
-                ? response.url.replace(options.proxyUrl, ``)
-                : response.url,
+            url: (options === null || options === void 0 ? void 0 : options.proxyUrl) ? response.url.replace(options.proxyUrl, ``) : response.url,
             headers,
-            data: yield response.text(),
+            data: yield response.text()
         };
         return parseResponse_1.parseResponse(normalizedResponse, options);
     });

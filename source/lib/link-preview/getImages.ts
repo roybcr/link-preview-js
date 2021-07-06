@@ -1,10 +1,6 @@
-import { metaTag } from "./getMetaTags";
-import { resolve } from "../../core/resolveURL";
-export function getImages(
-  doc: cheerio.Root,
-  rootUrl: string,
-  imagesPropertyType?: string
-) {
+import { metaTag } from './getMetaTags';
+import { resolve } from '../../core/resolveURL';
+export function getImages(doc: cheerio.Root, rootUrl: string, imagesPropertyType?: string) {
   let images: string[] = [];
   let nodes: cheerio.Cheerio | null;
   let src: string | undefined;

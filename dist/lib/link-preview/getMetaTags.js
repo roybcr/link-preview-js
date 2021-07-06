@@ -9,8 +9,7 @@ exports.metaTag = metaTag;
 const metaTagContent = (doc, type, attr) => doc(`meta[${attr}='${type}']`).attr(`content`);
 exports.metaTagContent = metaTagContent;
 function getTitle(doc) {
-    let title = exports.metaTagContent(doc, `og:title`, `property`) ||
-        exports.metaTagContent(doc, `og:title`, `name`);
+    let title = exports.metaTagContent(doc, `og:title`, `property`) || exports.metaTagContent(doc, `og:title`, `name`);
     if (!title) {
         title = doc(`title`).text();
     }

@@ -1,7 +1,7 @@
 export const enum ContentVariety {
   normal = 0,
   hyperlink = 1,
-  bad = 2,
+  bad = 2
 }
 
 export type Result = {

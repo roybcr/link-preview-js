@@ -1,14 +1,14 @@
-import cheerio from "cheerio";
-import { CONSTANTS } from "../../constants";
-import { getTitle } from "./getMetaTags";
-import { getSiteName } from "./getSiteName";
-import { getDescription } from "./getDescription";
-import { getMediaType } from "./getMediaType";
-import { getImages } from "./getImages";
-import { getVideos } from "./getVideos";
-import { getDefaultFavicon } from "./getDefaultFavicon";
-import { getFavicons } from "./getFavicons";
-import { getAuthor } from "./getAuthor";
+import cheerio from 'cheerio';
+import { CONSTANTS } from '../../constants';
+import { getTitle } from './getMetaTags';
+import { getSiteName } from './getSiteName';
+import { getDescription } from './getDescription';
+import { getMediaType } from './getMediaType';
+import { getImages } from './getImages';
+import { getVideos } from './getVideos';
+import { getDefaultFavicon } from './getDefaultFavicon';
+import { getFavicons } from './getFavicons';
+import { getAuthor } from './getAuthor';
 interface ILinkPreviewOptions {
   headers?: Record<string, string>;
   imagesPropertyType?: string;
@@ -29,7 +29,7 @@ function parseImageResponse(url: string, contentType: string) {
     url,
     mediaType: `image`,
     contentType,
-    favicons: [getDefaultFavicon(url)],
+    favicons: [getDefaultFavicon(url)]
   };
 }
 
@@ -38,7 +38,7 @@ function parseAudioResponse(url: string, contentType: string) {
     url,
     mediaType: `audio`,
     contentType,
-    favicons: [getDefaultFavicon(url)],
+    favicons: [getDefaultFavicon(url)]
   };
 }
 
@@ -47,7 +47,7 @@ function parseVideoResponse(url: string, contentType: string) {
     url,
     mediaType: `video`,
     contentType,
-    favicons: [getDefaultFavicon(url)],
+    favicons: [getDefaultFavicon(url)]
   };
 }
 
@@ -56,7 +56,7 @@ export function parseApplicationResponse(url: string, contentType: string) {
     url,
     mediaType: `application`,
     contentType,
-    favicons: [getDefaultFavicon(url)],
+    favicons: [getDefaultFavicon(url)]
   };
 }
 
@@ -78,7 +78,7 @@ function parseTextResponse(
     images: getImages(doc, url, options.imagesPropertyType),
     videos: getVideos(doc),
     favicons: getFavicons(doc, url),
-    author: getAuthor(doc),
+    author: getAuthor(doc)
   };
 }
 
@@ -91,10 +91,7 @@ function parseUnknownResponse(
   return parseTextResponse(body, url, options, contentType);
 }
 
-export function parseResponse(
-  response: IPrefetchedResource,
-  options?: ILinkPreviewOptions
-) {
+export function parseResponse(response: IPrefetchedResource, options?: ILinkPreviewOptions) {
   try {
     let contentType = response.headers[`content-type`];
 
@@ -129,8 +126,6 @@ export function parseResponse(
     const htmlString = response.data;
     return parseUnknownResponse(htmlString, response.url, options);
   } catch (e) {
-    throw new Error(
-      `link-preview-js could not fetch link information ${e.toString()}`
-    );
+    throw new Error(`link-preview-js could not fetch link information ${e.toString()}`);
   }
 }

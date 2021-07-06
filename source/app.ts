@@ -1,8 +1,8 @@
-import express from "express";
-import cors from "cors";
-import dotenv from "dotenv";
-import { getLinkPreviewMiddleware } from "./middleware/getLinkPreviewMiddleware";
-import { getLinkPreview } from "./index";
+import express from 'express';
+import cors from 'cors';
+import dotenv from 'dotenv';
+import { getLinkPreviewMiddleware } from './middleware/getLinkPreviewMiddleware';
+import { getLinkPreview } from './index';
 
 dotenv.config();
 
@@ -13,18 +13,18 @@ const main = async () => {
   app.use(
     cors({
       origin: process.env.SERVER_URL,
-      credentials: true,
+      credentials: true
     })
   );
 
   app.use(express.json());
   app.use(express.urlencoded({ extended: true }));
 
-  app.get("/", (_req, res) => {
-    res.send("URL Processing Service");
+  app.get('/', (_req, res) => {
+    res.send('URL Processing Service');
   });
 
-  app.post("/api/getpreview", getLinkPreviewMiddleware, (req, res) => {
+  app.post('/api/getpreview', getLinkPreviewMiddleware, (req, res) => {
     const url = req.body.url;
 
     getLinkPreview(url)
@@ -37,7 +37,7 @@ const main = async () => {
   });
 
   app.listen(PORT, () => {
-    console.log("Listening on port " + PORT);
+    console.log('Listening on port ' + PORT);
   });
 };
 

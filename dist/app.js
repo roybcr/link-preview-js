@@ -23,14 +23,14 @@ const main = () => __awaiter(void 0, void 0, void 0, function* () {
     const app = express_1.default();
     app.use(cors_1.default({
         origin: process.env.SERVER_URL,
-        credentials: true,
+        credentials: true
     }));
     app.use(express_1.default.json());
     app.use(express_1.default.urlencoded({ extended: true }));
-    app.get("/", (_req, res) => {
-        res.send("URL Processing Service");
+    app.get('/', (_req, res) => {
+        res.send('URL Processing Service');
     });
-    app.post("/api/getpreview", getLinkPreviewMiddleware_1.getLinkPreviewMiddleware, (req, res) => {
+    app.post('/api/getpreview', getLinkPreviewMiddleware_1.getLinkPreviewMiddleware, (req, res) => {
         const url = req.body.url;
         index_1.getLinkPreview(url)
             .then((response) => {
@@ -41,7 +41,7 @@ const main = () => __awaiter(void 0, void 0, void 0, function* () {
         });
     });
     app.listen(PORT, () => {
-        console.log("Listening on port " + PORT);
+        console.log('Listening on port ' + PORT);
     });
 });
 main();

@@ -17,9 +17,7 @@ function getVideos(doc) {
     let index;
     const nodes = getMetaTags_1.metaTag(doc, `og:video`, `property`) || getMetaTags_1.metaTag(doc, `og:video`, `name`);
     if (nodes === null || nodes === void 0 ? void 0 : nodes.length) {
-        nodeTypes =
-            getMetaTags_1.metaTag(doc, `og:video:type`, `property`) ||
-                getMetaTags_1.metaTag(doc, `og:video:type`, `name`);
+        nodeTypes = getMetaTags_1.metaTag(doc, `og:video:type`, `property`) || getMetaTags_1.metaTag(doc, `og:video:type`, `name`);
         nodeSecureUrls =
             getMetaTags_1.metaTag(doc, `og:video:secure_url`, `property`) ||
                 getMetaTags_1.metaTag(doc, `og:video:secure_url`, `name`);
@@ -44,7 +42,7 @@ function getVideos(doc) {
                 secureUrl: videoSecureUrl,
                 type: videoType,
                 width,
-                height,
+                height
             };
             if (videoType && videoType.indexOf(`video/`) === 0) {
                 videos.splice(0, 0, videoObj);

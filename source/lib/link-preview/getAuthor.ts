@@ -1,4 +1,4 @@
-import { metaTagContent } from "./getMetaTags";
+import { metaTagContent } from './getMetaTags';
 
 export function getAuthor(doc: cheerio.Root) {
   const author =

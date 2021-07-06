@@ -7,6 +7,7 @@
     "watch": "tsc -w",
     "dev": "nodemon source/app.ts",
     "test": "jest",
+    "prettier-format": "prettier --config .prettierrc 'source/**/*.ts' --write",
     "test:ci": "jest --testLocationInResults --ci --outputFile=test_results.json --json",
     "build": "tsc",
     "publishPackage": "tsc && jest --detectOpenHandles && npm publish "

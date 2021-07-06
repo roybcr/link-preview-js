@@ -1,4 +1,4 @@
-import { metaTagContent, metaTag } from "./getMetaTags";
+import { metaTagContent, metaTag } from './getMetaTags';
 
 export function getMediaType(doc: cheerio.Root) {
   const node = metaTag(doc, `medium`, `name`);
@@ -7,8 +7,5 @@ export function getMediaType(doc: cheerio.Root) {
     return content === `image` ? `photo` : content;
   }
 
-  return (
-    metaTagContent(doc, `og:type`, `property`) ||
-    metaTagContent(doc, `og:type`, `name`)
-  );
+  return metaTagContent(doc, `og:type`, `property`) || metaTagContent(doc, `og:type`, `name`);
 }

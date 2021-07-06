@@ -1,5 +1,5 @@
-import { resolve } from "../../core/resolveURL";
-import { getDefaultFavicon } from "./getDefaultFavicon";
+import { resolve } from '../../core/resolveURL';
+import { getDefaultFavicon } from './getDefaultFavicon';
 
 // returns an array of URL's to favicon images
 export function getFavicons(doc: cheerio.Root, rootUrl: string) {
@@ -7,11 +7,7 @@ export function getFavicons(doc: cheerio.Root, rootUrl: string) {
   let nodes: cheerio.Cheerio | never[] = [];
   let src: string | undefined;
 
-  const relSelectors = [
-    `rel=icon`,
-    `rel="shortcut icon"`,
-    `rel=apple-touch-icon`,
-  ];
+  const relSelectors = [`rel=icon`, `rel="shortcut icon"`, `rel=apple-touch-icon`];
 
   relSelectors.forEach((relSelector) => {
     // look for all icon tags

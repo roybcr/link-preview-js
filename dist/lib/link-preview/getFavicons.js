@@ -7,11 +7,7 @@ function getFavicons(doc, rootUrl) {
     const images = [];
     let nodes = [];
     let src;
-    const relSelectors = [
-        `rel=icon`,
-        `rel="shortcut icon"`,
-        `rel=apple-touch-icon`,
-    ];
+    const relSelectors = [`rel=icon`, `rel="shortcut icon"`, `rel=apple-touch-icon`];
     relSelectors.forEach((relSelector) => {
         nodes = doc(`link[${relSelector}]`);
         if (nodes.length) {

@@ -20,7 +20,7 @@ function parseImageResponse(url, contentType) {
         url,
         mediaType: `image`,
         contentType,
-        favicons: [getDefaultFavicon_1.getDefaultFavicon(url)],
+        favicons: [getDefaultFavicon_1.getDefaultFavicon(url)]
     };
 }
 function parseAudioResponse(url, contentType) {
@@ -28,7 +28,7 @@ function parseAudioResponse(url, contentType) {
         url,
         mediaType: `audio`,
         contentType,
-        favicons: [getDefaultFavicon_1.getDefaultFavicon(url)],
+        favicons: [getDefaultFavicon_1.getDefaultFavicon(url)]
     };
 }
 function parseVideoResponse(url, contentType) {
@@ -36,7 +36,7 @@ function parseVideoResponse(url, contentType) {
         url,
         mediaType: `video`,
         contentType,
-        favicons: [getDefaultFavicon_1.getDefaultFavicon(url)],
+        favicons: [getDefaultFavicon_1.getDefaultFavicon(url)]
     };
 }
 function parseApplicationResponse(url, contentType) {
@@ -44,7 +44,7 @@ function parseApplicationResponse(url, contentType) {
         url,
         mediaType: `application`,
         contentType,
-        favicons: [getDefaultFavicon_1.getDefaultFavicon(url)],
+        favicons: [getDefaultFavicon_1.getDefaultFavicon(url)]
     };
 }
 exports.parseApplicationResponse = parseApplicationResponse;
@@ -60,7 +60,7 @@ function parseTextResponse(body, url, options = {}, contentType) {
         images: getImages_1.getImages(doc, url, options.imagesPropertyType),
         videos: getVideos_1.getVideos(doc),
         favicons: getFavicons_1.getFavicons(doc, url),
-        author: getAuthor_1.getAuthor(doc),
+        author: getAuthor_1.getAuthor(doc)
     };
 }
 function parseUnknownResponse(body, url, options = {}, contentType) {

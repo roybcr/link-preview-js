@@ -17,12 +17,12 @@ const jsonfile_1 = __importDefault(require("jsonfile"));
 const path_1 = __importDefault(require("path"));
 function seed() {
     return __awaiter(this, void 0, void 0, function* () {
-        console.log("Start seeding...");
-        const data = yield jsonfile_1.default.readFile(path_1.default.join(__dirname, "../data.json"), "utf8");
+        console.log('Start seeding...');
+        const data = yield jsonfile_1.default.readFile(path_1.default.join(__dirname, '../data.json'), 'utf8');
         const linksArray = Object.keys(data).map((k) => {
             return data[k];
         });
-        console.log("Seeding process completed");
+        console.log('Seeding process completed');
         return linksArray;
     });
 }

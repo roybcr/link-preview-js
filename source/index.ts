@@ -1,6 +1,6 @@
-import { fetch } from "cross-fetch";
-import { CONSTANTS } from "./constants";
-import { parseResponse } from "./lib/link-preview/parseResponse";
+import { fetch } from 'cross-fetch';
+import { CONSTANTS } from './constants';
+import { parseResponse } from './lib/link-preview/parseResponse';
 
 /**
  * Parses the text, extracts the first link it finds and does a HTTP request
@@ -23,11 +23,8 @@ interface IPrefetchedResource {
   url: string;
   data: string;
 }
-export async function getLinkPreview(
-  text: string,
-  options?: ILinkPreviewOptions
-) {
-  console.log("Getting link preview for ", text);
+export async function getLinkPreview(text: string, options?: ILinkPreviewOptions) {
+  console.log('Getting link preview for ', text);
   if (!text || typeof text !== `string`) {
     throw new Error(`link-preview-js did not receive a valid url or text`);
   }
@@ -43,12 +40,10 @@ export async function getLinkPreview(
 
   const fetchOptions = {
     headers: options?.headers ?? {},
-    redirect: `follow` as `follow`,
+    redirect: `follow` as `follow`
   };
 
-  const fetchUrl = options?.proxyUrl
-    ? options.proxyUrl.concat(detectedUrl)
-    : detectedUrl;
+  const fetchUrl = options?.proxyUrl ? options.proxyUrl.concat(detectedUrl) : detectedUrl;
 
   const response = await fetch(fetchUrl, fetchOptions);
 
@@ -58,11 +53,9 @@ export async function getLinkPreview(
   });
 
   const normalizedResponse: IPrefetchedResource = {
-    url: options?.proxyUrl
-      ? response.url.replace(options.proxyUrl, ``)
-      : response.url,
+    url: options?.proxyUrl ? response.url.replace(options.proxyUrl, ``) : response.url,
     headers,
-    data: await response.text(),
+    data: await response.text()
   };
 
   return parseResponse(normalizedResponse, options);

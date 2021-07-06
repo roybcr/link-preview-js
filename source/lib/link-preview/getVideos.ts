@@ -1,4 +1,4 @@
-import { metaTagContent, metaTag } from "./getMetaTags";
+import { metaTagContent, metaTag } from './getMetaTags';
 
 export function getVideos(doc: cheerio.Root) {
   const videos = [];
@@ -14,13 +14,10 @@ export function getVideos(doc: cheerio.Root) {
   let videoObj;
   let index;
 
-  const nodes =
-    metaTag(doc, `og:video`, `property`) || metaTag(doc, `og:video`, `name`);
+  const nodes = metaTag(doc, `og:video`, `property`) || metaTag(doc, `og:video`, `name`);
 
   if (nodes?.length) {
-    nodeTypes =
-      metaTag(doc, `og:video:type`, `property`) ||
-      metaTag(doc, `og:video:type`, `name`);
+    nodeTypes = metaTag(doc, `og:video:type`, `property`) || metaTag(doc, `og:video:type`, `name`);
     nodeSecureUrls =
       metaTag(doc, `og:video:secure_url`, `property`) ||
       metaTag(doc, `og:video:secure_url`, `name`);
@@ -36,8 +33,7 @@ export function getVideos(doc: cheerio.Root) {
       if (node.type === `tag`) video = node.attribs.content;
 
       nodeType = nodeTypes![index];
-      if (nodeType.type === `tag`)
-        videoType = nodeType ? nodeType.attribs.content : null;
+      if (nodeType.type === `tag`) videoType = nodeType ? nodeType.attribs.content : null;
 
       nodeSecureUrl = nodeSecureUrls![index];
       if (nodeSecureUrl.type === `tag`)
@@ -48,7 +44,7 @@ export function getVideos(doc: cheerio.Root) {
         secureUrl: videoSecureUrl,
         type: videoType,
         width,
-        height,
+        height
       };
       if (videoType && videoType.indexOf(`video/`) === 0) {
         videos.splice(0, 0, videoObj);

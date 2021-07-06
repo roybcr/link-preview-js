@@ -8,8 +8,7 @@ function getMediaType(doc) {
         const content = node.attr(`content`);
         return content === `image` ? `photo` : content;
     }
-    return (getMetaTags_1.metaTagContent(doc, `og:type`, `property`) ||
-        getMetaTags_1.metaTagContent(doc, `og:type`, `name`));
+    return getMetaTags_1.metaTagContent(doc, `og:type`, `property`) || getMetaTags_1.metaTagContent(doc, `og:type`, `name`);
 }
 exports.getMediaType = getMediaType;
 //# sourceMappingURL=getMediaType.js.map

@@ -1,4 +1,4 @@
-import { metaTagContent } from "./getMetaTags";
+import { metaTagContent } from './getMetaTags';
 
 export function getDescription(doc: cheerio.Root) {
   const description =
