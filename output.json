@@ -1,0 +1,1302 @@
+[
+  { "url": "http://json2ts.com/", "type": "website" },
+  { "url": "http://paulgraham.com/simply.html", "type": "website" },
+  { "url": "https://typeorm.io/#/", "type": "website" },
+  { "url": "https://skeletonscribe.net/", "type": "website" },
+  { "url": "https://rxjs.dev/", "type": "website" },
+  { "url": "https://dribbble.com/shots/following/product-design", "type": "website" },
+  { "url": "https://socket.io/", "type": "website" },
+  { "url": "http://paulgraham.com/pow.html", "type": "website" },
+  { "url": "http://paulgraham.com/early.html", "type": "website" },
+  { "url": "https://dotnet.microsoft.com/learn/dotnet/architecture-guides", "type": "website" },
+  { "url": "https://devdocs.io/", "type": "website" },
+  { "url": "https://dribbble.com/", "type": "website" },
+  {
+    "url": "https://www.amazon.co.uk/Lean-Startup-Eric-Ries/dp/0307887898/ref=as_li_ss_tl?_encoding=UTF8&qid=1586805191&sr=8-1&linkCode=ll1&tag=kylerdesign-21&linkId=85d8036533cb3e828fe034b7c7921d75&language=en_GB",
+    "type": "website"
+  },
+  { "url": "https://react-icons.github.io/react-icons/search?q=paper", "type": "website" },
+  { "url": "https://www.unixtimestamp.com/", "type": "article" },
+  {
+    "url": "https://books.google.co.il/books?id=87rgldnYJJwC&printsec=frontcover&dq=subject:%22Chess+problems%22&hl=en&sa=X&ved=2ahUKEwjN5tjsssTvAhVVDmMBHX25BOQQ6AEwAXoECAIQAg#v=onepage&q&f=false",
+    "type": "book"
+  },
+  { "url": "https://ux.mailchimp.com/patterns/color", "type": "website" },
+  { "url": "https://codepen.io/abxlfazl/full/OJbLozK", "type": "website" },
+  { "url": "https://cssdesignawards.com/", "type": "website" },
+  { "url": "https://shuffle.dev/", "type": "product" },
+  { "url": "https://fs.blog/mental-models/", "type": "article" },
+  { "url": "http://cypherspace.org/", "type": "website" },
+  { "url": "https://davidprice-26453.medium.com/art-heals-ac34979f7839", "type": "article" },
+  { "url": "https://3dbook.xyz/", "type": "website" },
+  {
+    "url": "https://hasura.io/docs/latest/graphql/cloud/getting-started/index.html",
+    "type": "website"
+  },
+  {
+    "url": "https://stackoverflow.com/questions/40676343/typescript-input-onchange-event-target-value",
+    "type": "website"
+  },
+  { "url": "https://365chess.com/eco/C51_Evans_gambit", "type": "website" },
+  { "url": "https://www.figma.com/community/file/876509330914541878", "type": "website" },
+  {
+    "url": "https://codesandbox.io/s/sidik-v3-2gspn?file=%2Fsrc%2Fcomponents%2Fpages%2FManageAnotherUsers.js",
+    "type": "article"
+  },
+  {
+    "url": "https://www.freecodecamp.org/news/how-to-use-chakra-ui-with-next-js-and-react/",
+    "type": "article"
+  },
+  { "url": "https://github.com/trending", "type": "website" },
+  { "url": "https://daily.dev/", "type": "website" },
+  { "url": "https://fullstackradio.com/", "type": "website" },
+  { "url": "https://kutt.it/", "type": "website" },
+  { "url": "https://pusher.com/tutorials/realtime-tables-nextjs", "type": "website" },
+  {
+    "url": "https://medium.com/codex/how-to-ace-a-coding-interview-even-if-you-cant-solve-the-problem-1f08df3713c1",
+    "type": "article"
+  },
+  { "url": "https://chakra-ui.com/docs/media-and-icons/avatar#avatar-props", "type": "website" },
+  {
+    "url": "https://medium.com/@steven_creates/creating-a-custom-react-hook-for-password-validation-46fc421c16ee",
+    "type": "article"
+  },
+  {
+    "url": "https://hasura.io/blog/create-next-js-sites-using-graphql-on-postgres-199224ad1a39/",
+    "type": "article"
+  },
+  { "url": "https://moodleschema.zoola.io/tables/course_modules.html", "type": "website" },
+  { "url": "http://hashcash.org/", "type": "website" },
+  { "url": "https://github.com/topics/memes-api", "type": "website" },
+  { "url": "https://muzzleapp.com/", "type": "product" },
+  { "url": "https://lawsofux.com/", "type": "website" },
+  { "url": "https://www.apollographql.com/docs/react/data/mutations/", "type": "website" },
+  {
+    "url": "https://medium.com/creators-hub/how-to-publish-shortform-c059b5fda2d5",
+    "type": "article"
+  },
+  { "url": "https://spectrum.chat/design-code?tab=posts", "type": "website" },
+  { "url": "https://www.danstools.com/", "type": "website" },
+  {
+    "url": "https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell",
+    "type": "website"
+  },
+  { "url": "https://egghead.io/courses/async-await-using-typescript", "type": "website" },
+  { "url": "https://www.notion.so/web-clipper", "type": "website" },
+  { "url": "https://blush.design/", "type": "website" },
+  { "url": "https://martinfowler.com/articles/microservices.html", "type": "article" },
+  { "url": "https://vercel.com/tv", "type": "website" },
+  { "url": "https://ludism.org/mentat", "type": "website" },
+  { "url": "https://instantview.telegram.org/", "type": "website" },
+  {
+    "url": "https://notion-clone.kmuenster.com/p/605db90d97fc520024621694?public=true",
+    "type": "website"
+  },
+  {
+    "url": "https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/",
+    "type": "mult"
+  },
+  { "url": "https://fullstackradio.simplecast.com/episodes/79-f2e65eaf", "type": "website" },
+  {
+    "url": "https://medium.com/coinmonks/what-is-the-internet-computer-the-dfinity-project-at-a-glance-4fa0f389022e",
+    "type": "article"
+  },
+  { "url": "https://www.notion.so/Linity-b54d08512c2a4ab98eaa3be80808e460", "type": "website" },
+  { "url": "https://iohk.zendesk.com/hc/en-us/articles/360015295134", "type": "website" },
+  { "url": "http://paulgraham.com/seesv.html", "type": "website" },
+  { "url": "https://refract.js.org/", "type": "website" },
+  {
+    "url": "https://tailwindcomponents.com/component/password-generator-and-strength-score",
+    "type": "website"
+  },
+  {
+    "url": "https://shinhyungchoi.medium.com/proof-of-provenance-why-nfts-can-be-valuable-1489ed1395fd",
+    "type": "article"
+  },
+  { "url": "https://reactjs.org/docs/code-splitting.html", "type": "article" },
+  { "url": "https://github.com/type-challenges/type-challenges", "type": "object" },
+  { "url": "https://davidwalsh.name/", "type": "website" },
+  { "url": "https://www.nuclino.com/teams/product", "type": "website" },
+  { "url": "https://ronen-e.github.io/understandinges6/", "type": "website" },
+  { "url": "https://www.graphql-tools.com/", "type": "website" },
+  { "url": "https://builtformars.com/case-studies/creating-a-signal-account", "type": "website" },
+  {
+    "url": "https://medium.com/fast-company/for-the-first-time-in-years-someone-is-building-a-web-browser-from-scratch-bfcd0f35d1ad",
+    "type": "article"
+  },
+  {
+    "url": "https://medium.com/the-ascent/bitcoin-hitting-100-000-doesnt-matter-many-people-have-missed-the-point-b6360bed7b06",
+    "type": "article"
+  },
+  { "url": "http://paulgraham.com/articles.html", "type": "website" },
+  {
+    "url": "https://medium.com/socializing-in-the-oasis/the-true-key-to-iteration-feedback-7156835227dc",
+    "type": "article"
+  },
+  {
+    "url": "https://engineering.fb.com/2015/07/31/android/improving-facebook-s-performance-on-android-with-flatbuffers/",
+    "type": "article"
+  },
+  { "url": "https://draftjs.org/", "type": "website" },
+  { "url": "https://backlinko.com/clubhouse-users", "type": "article" },
+  { "url": "https://medium.com/", "type": "website" },
+  {
+    "url": "https://medium.com/slack-developer-blog/everything-you-ever-wanted-to-know-about-unfurling-but-were-afraid-to-ask-or-how-to-make-your-e64b4bb9254",
+    "type": "article"
+  },
+  { "url": "https://devresourc.es/ui-design/inspiration", "type": "website" },
+  { "url": "https://the-guild.dev/blog/graphql-codegen-plugin-typescript-swr", "type": "website" },
+  { "url": "https://slite.com/", "type": "website" },
+  { "url": "https://github.com/kitze/react-hanger", "type": "object" },
+  { "url": "https://medium.com/swlh/no-jira-no-cry-b8ccfdb55fc9", "type": "article" },
+  {
+    "url": "https://medium.com/techtrument/multithreading-javascript-46156179cf9a",
+    "type": "article"
+  },
+  { "url": "https://designvalley.club/", "type": "website" },
+  { "url": "https://egghead.io/courses/regex-in-javascript", "type": "website" },
+  { "url": "https://github.com/missive/emoji-mart", "type": "object" },
+  { "url": "https://microsoft.github.io/frontend-bootcamp/", "type": "website" },
+  { "url": "https://uppy.io/", "type": "website" },
+  { "url": "https://egghead.io/courses/get-started-with-elasticsearch", "type": "website" },
+  { "url": "https://chakra-ui.com/docs/overlay/modal", "type": "website" },
+  {
+    "url": "https://dribbble.com/stories/2020/07/27/disney-principles-of-animation-ui-interactions",
+    "type": "video.other"
+  },
+  { "url": "https://popper.js.org/", "type": "website" },
+  { "url": "https://github.com/leizongmin/js-xss", "type": "object" },
+  { "url": "https://flaviocopes.com/page/nextjs-handbook/", "type": "article" },
+  { "url": "http://paulgraham.com/mean.html", "type": "website" },
+  { "url": "https://every-layout.dev/", "type": "website" },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale()",
+    "type": "website"
+  },
+  {
+    "url": "https://github.com/mihailgaberov/chat/blob/master/src/utilities/localStorageService.ts",
+    "type": "object"
+  },
+  {
+    "url": "https://www.youtube.com/watch?index=5&list=PLQq25VykDHnsc0r5j4i71luDmNg4yB0AN&v=cyzD9Zi4oSc",
+    "type": "video.other"
+  },
+  { "url": "https://traxretail.com/", "type": "website" },
+  { "url": "https://github.com/chakra-ui/chakra-ui/issues/40", "type": "object" },
+  { "url": "https://statickit.com/guides/next-js-tailwind", "type": "website" },
+  {
+    "url": "https://medium.com/slack-developer-blog/build-slack-apps-in-a-flash-700570619065",
+    "type": "article"
+  },
+  { "url": "https://quill.chat/", "type": "website" },
+  {
+    "url": "https://medium.com/project-shekel/tesla-will-no-longer-accept-bitcoin-as-payment-880596ed39bd",
+    "type": "article"
+  },
+  { "url": "https://namelix.com/", "type": "website" },
+  {
+    "url": "https://www.nytimes.com/2021/03/16/well/family/children-reading-screens-books.html",
+    "type": "article"
+  },
+  { "url": "https://principledgraphql.com/", "type": "website" },
+  {
+    "url": "https://medium.com/@tworetzky/what-does-a-product-manager-do-205b40d82da3",
+    "type": "article"
+  },
+  { "url": "https://egghead.io/courses/introduction-to-next-js-9-9c01", "type": "website" },
+  { "url": "https://stripe.com/blog/globe", "type": "website" },
+  { "url": "https://handwiki.org/wiki/HandWiki:Software", "type": "website" },
+  { "url": "https://www.pinterest.com/pin/476959416788019495/", "type": "pinterestapp:pin" },
+  { "url": "https://github.com/qazbnm456/awesome-web-security", "type": "object" },
+  {
+    "url": "https://michaelnthiessen.com/passing-data-between-child-components",
+    "type": "website"
+  },
+  {
+    "url": "https://blog.sentry.io/2021/01/27/track-session-data-with-sentry-for-javascript/",
+    "type": "website"
+  },
+  {
+    "url": "https://dev.to/muddybootscode/drag-and-drop-with-the-grandstack-2j22",
+    "type": "article"
+  },
+  { "url": "http://paulgraham.com/cred.html", "type": "website" },
+  {
+    "url": "https://docs.microsoft.com/en-us/learn/browse/?term=security&terms=security",
+    "type": "website"
+  },
+  { "url": "https://egghead.io/q/postgres", "type": "website" },
+  {
+    "url": "https://egghead.io/courses/use-grep-for-fast-search-from-the-command-line",
+    "type": "website"
+  },
+  { "url": "https://app.gitbook.com/@roybcr/spaces", "type": "website" },
+  { "url": "https://basarat.gitbook.io/typescript/", "type": "website" },
+  { "url": "https://github.com/benawad/material-ui-apollo-infinite-scroll", "type": "object" },
+  { "url": "https://egghead.io/q/nginx", "type": "website" },
+  { "url": "https://egghead.io/q/typescript", "type": "website" },
+  {
+    "url": "https://curtiseinsmann.medium.com/ive-code-reviewed-over-750-pull-requests-at-amazon-here-s-my-exact-thought-process-cec7c942a3a4",
+    "type": "article"
+  },
+  { "url": "https://github.com/", "type": "object" },
+  { "url": "https://clarity.microsoft.com/", "type": "website" },
+  {
+    "url": "https://hulyakarakaya.hashnode.dev/learn-nextjs-for-free-with-these-resources",
+    "type": "article"
+  },
+  { "url": "https://contextminds.com/", "type": "website" },
+  { "url": "https://getpocket.com/explore/technology", "type": "website" },
+  { "url": "https://builtformars.com/", "type": "website" },
+  {
+    "url": "https://blog.sentry.io/2021/03/30/a-sanity-listicle-for-mobile-developers/",
+    "type": "website"
+  },
+  { "url": "https://github.com/bkimminich/juice-shop", "type": "object" },
+  {
+    "url": "https://www.apollographql.com/blog/apollo-client/next-js/next-js-getting-started",
+    "type": "website"
+  },
+  { "url": "https://www.framer.com/motion/", "type": "product" },
+  { "url": "https://unsplash.com/photos/SPECLS_q6MY", "type": "website" },
+  { "url": "https://simplifychess.com/evans-gambit/index.html", "type": "website" },
+  { "url": "https://stripe.com/docs/api", "type": "website" },
+  { "url": "https://www.youtube.com/watch?v=JEBkh_vleTs", "type": "video.other" },
+  { "url": "https://untools.co/first-principles/", "type": "website" },
+  {
+    "url": "https://www.codeproject.com/Articles/1214409/Learn-YAML-in-five-minutes",
+    "type": "article"
+  },
+  {
+    "url": "https://medium.com/illumination/tricks-in-the-medium-editor-you-didnt-know-about-ee251dfc6504",
+    "type": "article"
+  },
+  { "url": "https://unsplash.com/", "type": "website" },
+  { "url": "http://neuralnetworksanddeeplearning.com/index.html", "type": "website" },
+  { "url": "https://aylien.com/", "type": "website" },
+  { "url": "https://fs.blog/mental-models/#microeconomics", "type": "article" },
+  { "url": "https://github.com/yabwe/medium-editor", "type": "object" },
+  {
+    "url": "https://www.notion.so/ionic-team-ionic-framework-4a56c44f6abb4de9ab41bc221d2c837c",
+    "type": "website"
+  },
+  {
+    "url": "https://egghead.io/lessons/react-avoiding-state-flickers-in-gatsby-applications?pl=undefined",
+    "type": "website"
+  },
+  { "url": "https://chakra-ui.com/docs/layout/grid", "type": "website" },
+  { "url": "https://www.expressvpn.com/blog/latest/", "type": "website" },
+  { "url": "https://unsplash.com/photos/3bpKvzknix0", "type": "website" },
+  {
+    "url": "https://medium.com/swlh/6-ingredients-for-creating-stunning-saas-applications-that-delight-users-90ac36f3a71c",
+    "type": "article"
+  },
+  {
+    "url": "https://stackoverflow.com/questions/42427393/cannot-invoke-an-expression-whose-type-lacks-a-call-signature",
+    "type": "website"
+  },
+  { "url": "https://github.com/sjhhh3/binance-simulator/blob/master/db/data.py", "type": "object" },
+  {
+    "url": "https://blog.sentry.io/2020/10/01/debug-errors-in-lambda-functions/",
+    "type": "website"
+  },
+  { "url": "https://www.indiehackers.com/", "type": "website" },
+  { "url": "https://epoch.org.il/psychology/198719/", "type": "article" },
+  { "url": "https://www.atlassian.com/agile/kanban/kanban-vs-scrum", "type": "website" },
+  {
+    "url": "https://www.youtube.com/watch?index=7&list=PLQq25VykDHnsc0r5j4i71luDmNg4yB0AN&v=go5O1qQauQY",
+    "type": "video.other"
+  },
+  { "url": "https://fluidframework.com/", "type": "website" },
+  { "url": "https://www.codecademy.com/resources/cheatsheets/all", "type": "article" },
+  {
+    "url": "https://www.youtube.com/watch?index=6&list=PLQq25VykDHnsc0r5j4i71luDmNg4yB0AN&v=P21tDPnm_ZY",
+    "type": "video.other"
+  },
+  { "url": "http://showthedocs.com/", "type": "website" },
+  { "url": "https://rsuitejs.com/", "type": "website" },
+  {
+    "url": "https://www.udemy.com/course/the-web-developer-bootcamp/?LSNPUBID=EXclnL5BfX4&ranEAID=EXclnL5BfX4&ranMID=39197&ranSiteID=EXclnL5BfX4-CigVW1VJx9NniyPAPuAayg&utm_medium=udemyads&utm_source=aff-campaign",
+    "type": "mult"
+  },
+  { "url": "https://misskey.io/", "type": "website" },
+  { "url": "https://egghead.io/q/puppeteer", "type": "website" },
+  {
+    "url": "https://blog.logrocket.com/how-build-graphql-api-typegraphql-typeorm/",
+    "type": "article"
+  },
+  { "url": "https://www.4chan.org/", "type": "website" },
+  { "url": "https://www.youtube.com/watch?v=DLGJfa3Xv-0", "type": "video.other" },
+  { "url": "https://supabase.io/", "type": "website" },
+  {
+    "url": "https://www.youtube.com/watch?index=4&list=PLQq25VykDHnsc0r5j4i71luDmNg4yB0AN&v=mGbT7reGR_I",
+    "type": "video.other"
+  },
+  { "url": "https://builtformars.com/case-studies/how-coinbase-works", "type": "website" },
+  { "url": "https://www.slatejs.org/", "type": "website" },
+  { "url": "https://logolink.com/", "type": "website" },
+  {
+    "url": "https://reactjs.org/docs/forwarding-refs.html#gatsby-focus-wrapper",
+    "type": "article"
+  },
+  {
+    "url": "https://www.expressvpn.com/blog/bitcoin-paperwallet-guide/?utm_campaign=botw_20210218_offline_wallet&utm_content&utm_medium=apps&utm_source=rotating_message",
+    "type": "article"
+  },
+  {
+    "url": "https://egghead.io/courses/design-with-tailwind-css-masterclass-f0db",
+    "type": "website"
+  },
+  { "url": "https://chessgames.com/perl/chessopening?eco=c51", "type": "website" },
+  {
+    "url": "https://medium.com/@jrwebdev/react-higher-order-component-patterns-in-typescript-42278f7590fb",
+    "type": "article"
+  },
+  { "url": "https://nextjs.org/docs/advanced-features/custom-server", "type": "website" },
+  { "url": "https://notion-blog.vercel.app/", "type": "website" },
+  { "url": "https://sharp.pixelplumbing.com/", "type": "website" },
+  { "url": "https://github.com/benawad/apollo-cache-update", "type": "object" },
+  { "url": "https://rxdb.info/", "type": "website" },
+  { "url": "https://alephjs.org/", "type": "website" },
+  { "url": "https://github.com/civiccc/react-waypoint", "type": "object" },
+  {
+    "url": "https://www.hacksplaining.com/exercises/sql-injection#/fourth-login-attempt",
+    "type": "website"
+  },
+  { "url": "https://github.com/rsuite/rsuite", "type": "object" },
+  { "url": "https://www.notion.so/What-s-New-157765353f2c4705bd45474e5ba8b46c", "type": "website" },
+  { "url": "https://www.psychologytoday.com/intl", "type": "website" },
+  { "url": "https://github.com/scrapinghub", "type": "profile" },
+  {
+    "url": "https://www.planview.com/resources/articles/lkdc-lean-product-development/",
+    "type": "article"
+  },
+  { "url": "https://spectrum.chat/users/roybcr", "type": "profile" },
+  { "url": "https://epoch.org.il/science-and-technology/198717/", "type": "article" },
+  { "url": "https://github.com/premieroctet", "type": "profile" },
+  { "url": "https://www.figma.com:443/", "type": "website" },
+  {
+    "url": "https://www.codecademy.com/learn/dlsp-getting-started-with-tensorflow/modules/dlsp-implementing-neural-networks/cheatsheet",
+    "type": "article"
+  },
+  {
+    "url": "https://tailwindui.com/components/application-ui/forms/action-panels",
+    "type": "article"
+  },
+  { "url": "https://www.figma.com:443/@buckster", "type": "website" },
+  { "url": "https://openchakra.app/", "type": "website" },
+  { "url": "http://paulgraham.com/know.html", "type": "website" },
+  { "url": "https://storybook.js.org/tutorials/design-systems-for-developers/", "type": "website" },
+  { "url": "https://builtformars.com/case-studies/how-freetrade-works", "type": "website" },
+  { "url": "https://basarat.gitbook.io/typescript/type-system", "type": "website" },
+  {
+    "url": "https://blog.sentry.io/2021/02/03/how-to-use-sentry-attachments-with-mobile-applications/",
+    "type": "website"
+  },
+  { "url": "https://yabwe.github.io/medium-editor/demo.html", "type": "website" },
+  {
+    "url": "https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/",
+    "type": "article"
+  },
+  { "url": "https://www.udemy.com/course/git-and-github-bootcamp/", "type": "mult" },
+  { "url": "https://wiki.dendron.so/", "type": "article" },
+  { "url": "https://idenati.com/", "type": "website" },
+  { "url": "https://react-hook-form.com/ts/", "type": "website" },
+  { "url": "https://github.com/learn-anything/curated-lists", "type": "object" },
+  {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/sanitize-html/sanitize-html-tests.ts",
+    "type": "object"
+  },
+  {
+    "url": "https://www.ragchess.com/evans-gambit-accepted-a-definitive-guide-to-the-aggressive-white-opening/",
+    "type": "article"
+  },
+  { "url": "https://dat-rs.com/", "type": "website" },
+  {
+    "url": "https://builtformars.com/case-studies/how-robinhood-handled-a-crisis",
+    "type": "website"
+  },
+  {
+    "url": "https://medium.com/litslink/how-to-create-google-chrome-extension-using-react-js-5c9e343323ff",
+    "type": "article"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions",
+    "type": "website"
+  },
+  { "url": "https://land-book.com/", "type": "website" },
+  { "url": "https://untools.co/six-thinking-hats/", "type": "website" },
+  { "url": "https://og-image.vercel.app/", "type": "website" },
+  { "url": "https://builtformars.com/case-studies/how-klarna-works", "type": "website" },
+  { "url": "https://github.com/marketplace/github-learning-lab", "type": "object" },
+  {
+    "url": "https://blog.sentry.io/2020/06/22/self-hosted-sentry-switching-to-calver/",
+    "type": "website"
+  },
+  { "url": "https://nginx.org/en/docs/http/load_balancing.html", "type": "website" },
+  { "url": "https://react-icons.github.io/react-icons/icons?name=hi", "type": "website" },
+  { "url": "https://futurism.com/have-we-finally-found-the-creator-of-bitcoin", "type": "article" },
+  {
+    "url": "https://medium.com/@Pocket/your-pocket-journey-starts-now-make-the-most-of-it-cc30770e6c53",
+    "type": "article"
+  },
+  { "url": "https://feedic.com/htmlparser2/", "type": "website" },
+  { "url": "https://typegraphql.com/docs/extensions.html", "type": "website" },
+  {
+    "url": "https://github.com/konstantinmuenster/notion-clone/blob/246d426b5522cc7a706d6046514a6212170d1b75/frontend/components/editableBlock/index.js",
+    "type": "object"
+  },
+  {
+    "url": "https://medium.com/swlh/no-the-pandemic-wasnt-the-best-time-to-start-an-online-side-hustle-58ca840d807b",
+    "type": "article"
+  },
+  { "url": "http://paulgraham.com/noob.html", "type": "website" },
+  { "url": "https://github.com/hustcc/timeago.js", "type": "object" },
+  { "url": "https://github.com/aFarkas/lazysizes", "type": "object" },
+  { "url": "https://getpolarized.io/", "type": "website" },
+  {
+    "url": "https://medium.com/mutualart/kandinskys-introspective-path-to-abstract-reality-5acb0175eebb",
+    "type": "website"
+  },
+  { "url": "https://github.com/canvg/canvg", "type": "object" },
+  { "url": "https://www.edx.org/micromasters/ubcx-software-development", "type": "website" },
+  { "url": "https://www.apollographql.com/docs/react/get-started/", "type": "website" },
+  { "url": "https://pro.chakra-ui.com/components/application-ui/steps", "type": "article" },
+  { "url": "https://nmap.org/", "type": "website" },
+  {
+    "url": "https://egghead.io/blog/how-to-quickly-build-a-backend-with-dark-lang",
+    "type": "website"
+  },
+  { "url": "https://www.expressvpn.com/blog/category/tips-tricks/", "type": "object" },
+  {
+    "url": "https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/",
+    "type": "article"
+  },
+  { "url": "https://www.youtube.com/watch?v=iVaFVa7HYj4", "type": "video.other" },
+  { "url": "https://miro.com/templates/empathy-map/", "type": "website" },
+  {
+    "url": "https://productschool.com/blog/product-management-2/types-product-management-roles/",
+    "type": "article"
+  },
+  {
+    "url": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/#mental-models",
+    "type": "website"
+  },
+  {
+    "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html",
+    "type": "article"
+  },
+  {
+    "url": "https://github.com/ghoshnirmalya/screenshot-using-playwright-github-action",
+    "type": "object"
+  },
+  { "url": "https://www.expressvpn.com/blog/category/digital-security-lab/", "type": "object" },
+  {
+    "url": "https://javascript.plainenglish.io/how-to-land-a-software-engineer-job-in-google-facebook-and-twitter-44e49906e87?gi=5471dbcce4a4",
+    "type": "article"
+  },
+  { "url": "https://sqltutorial.org/", "type": "website" },
+  { "url": "https://www.parallels.com/blogs/connect-physical-disks/", "type": "article" },
+  { "url": "https://keystonejs.com/", "type": "website" },
+  { "url": "https://www.masterywithsql.com/", "type": "website" },
+  { "url": "https://hashnode.com/", "type": "website" },
+  { "url": "https://github.com/mvasilkov/readability2", "type": "object" },
+  {
+    "url": "https://docs.microsoft.com/en-us/learn/modules/explore-performance-based-design/",
+    "type": "website"
+  },
+  { "url": "https://docs.microsoft.com/en-us/clarity/", "type": "website" },
+  { "url": "https://github.com/roybcr/Learn-Vim", "type": "object" },
+  { "url": "https://github.com/scastiel/3d-book-image-css-generator", "type": "object" },
+  {
+    "url": "https://blog.sentry.io/2021/01/20/a-gem-of-an-update-performance-monitoring-for-ruby/",
+    "type": "website"
+  },
+  {
+    "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch03.html",
+    "type": "article"
+  },
+  { "url": "https://github.com/system-ui/theme-ui", "type": "object" },
+  {
+    "url": "https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40",
+    "type": "article"
+  },
+  { "url": "https://github.com/alexjoverm/typescript-library-starter", "type": "object" },
+  {
+    "url": "https://codesandbox.io/s/l91xvkox9l?file=%2Fsrc%2Findex.js%3A910-923",
+    "type": "article"
+  },
+  {
+    "url": "https://egghead.io/talks/javascript-drawing-the-invisible-react-explained-in-five-visual-metaphors",
+    "type": "website"
+  },
+  {
+    "url": "https://medium.datadriveninvestor.com/big-tech-trouble-the-facebook-data-breach-and-what-it-means-going-forward-4f0f15662f53?gi=962a13b975",
+    "type": "article"
+  },
+  {
+    "url": "https://egghead.io/courses/build-custom-command-line-interface-cli-tooling-with-oclif-and-typescript",
+    "type": "website"
+  },
+  {
+    "url": "https://www.apollographql.com/docs/apollo-server/schema/directives",
+    "type": "website"
+  },
+  { "url": "https://prosemirror.net/examples/basic/", "type": "website" },
+  { "url": "https://github.com/cossacklabs/acra", "type": "object" },
+  { "url": "https://www.youtube.com/watch?v=OTkP2JDeGWM", "type": "video.other" },
+  { "url": "https://github.com/ghoshnirmalya/screenshot-mockup", "type": "object" },
+  { "url": "https://www.pornhub.com/view_video.php?viewkey=ph5aed28b361f22", "type": "website" },
+  { "url": "https://dotnet.microsoft.com/platform/community", "type": "website" },
+  { "url": "https://github.com/milesj/interweave", "type": "object" },
+  { "url": "https://github.com/streamich/react-use", "type": "object" },
+  { "url": "https://github.com/bvaughn/react-window", "type": "object" },
+  { "url": "https://pusher.com/tutorials/chat-sentiment-analysis-nextjs", "type": "website" },
+  { "url": "https://maggieappleton.com/", "type": "website" },
+  { "url": "https://blog.sentry.io/2020/04/14/lets-get-ready-to-monitor/", "type": "website" },
+  {
+    "url": "https://blog.sentry.io/2020/09/14/finding-and-fixing-django-n-1-problems/",
+    "type": "website"
+  },
+  { "url": "https://www.udacity.com/course/ethical-hacker-nanodegree--nd350", "type": "website" },
+  { "url": "https://github.com/ionic-team/ionic-framework", "type": "object" },
+  {
+    "url": "https://www.lucidchart.com/pages/database-diagram/database-models",
+    "type": "discovery"
+  },
+  { "url": "https://github.com/ghoshnirmalya/react-search-box", "type": "object" },
+  {
+    "url": "https://www.pluralsight.com:443/courses/ethical-hacking-sql-injection?aid=7010a000001xAKZAA2&clickid=18NzMdRZRxyLRrYwUx0Mo3EIUkES9Yyy20gdyM0&irgwc=1&mpid=259799&utm_campaign=259799&utm_medium=digital_affiliate&utm_source=impactradius",
+    "type": "website"
+  },
+  {
+    "url": "https://github.com/benawad/dogehouse/commits/staging?after=584055ad407bc37fa35cdf36ebb271622e29d436+5935&branch=staging",
+    "type": "object"
+  },
+  { "url": "https://www.dormdev.com/", "type": "website" },
+  {
+    "url": "https://medium.com/pinterest-engineering/detecting-image-similarity-in-near-real-time-using-apache-flink-723ce072b7d2",
+    "type": "article"
+  },
+  { "url": "https://github.com/unifiedjs/unified", "type": "object" },
+  {
+    "url": "https://github.com/ionic-team/ionic-framework/blob/master/core/src/utils/sanitization/index.ts",
+    "type": "object"
+  },
+  {
+    "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/preface01.html",
+    "type": "article"
+  },
+  { "url": "https://www.yelp.com/biz/per-se-new-york", "type": "yelpyelp:business" },
+  { "url": "https://blueprintjs.com/", "type": "website" },
+  {
+    "url": "https://www.linkedin.com/learning/paths/become-a-digital-illustrator?trk=lynda_redirect_learning",
+    "type": "website"
+  },
+  {
+    "url": "https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html",
+    "type": "article"
+  },
+  { "url": "https://hashids.org/javascript/", "type": "website" },
+  { "url": "https://epoch.org.il/opinion/198709/", "type": "article" },
+  { "url": "https://egghead.io/q/webpack", "type": "website" },
+  { "url": "https://stripe.com/en-fr", "type": "website" },
+  { "url": "https://github.com/topics/typescript?o=desc&s=stars", "type": "website" },
+  { "url": "http://www.goodweb.design/", "type": "website" },
+  { "url": "https://github.com/apollographql/apollo-tooling", "type": "object" },
+  { "url": "https://egghead.io/q/graphql", "type": "website" },
+  { "url": "https://www.pgadmin.org/docs/pgadmin4/development/erd_tool.html", "type": "website" },
+  { "url": "https://startupstash.com/", "type": "website" },
+  { "url": "https://miro.com/guides/mind-mapping/", "type": "website" },
+  { "url": "https://en.wikipedia.org/wiki/Linear_algebra", "type": "website" },
+  {
+    "url": "https://javascript.plainenglish.io/8-node-js-projects-to-keep-an-eye-on-66465e221db5?gi=b64b5156ed39",
+    "type": "article"
+  },
+  { "url": "https://fs.blog/2017/12/learning-from-history/", "type": "article" },
+  { "url": "https://github.com/node-fetch/node-fetch", "type": "object" },
+  { "url": "https://www.classcentral.com/subject/personal-development", "type": "website" },
+  {
+    "url": "https://choice.npr.org/index.html?origin=https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack",
+    "type": "website"
+  },
+  {
+    "url": "https://builtformars.com/case-studies/finding-conversations-on-clubhouse",
+    "type": "website"
+  },
+  {
+    "url": "https://github.com/konstantinmuenster/notion-clone/search?q=%3CEditableBlock",
+    "type": "object"
+  },
+  { "url": "https://sentry.io/welcome/", "type": "website" },
+  { "url": "https://brilliant.org/courses/#/science/applied-science", "type": "website" },
+  { "url": "https://github.com/clintonwoo/hackernews-react-graphql", "type": "object" },
+  { "url": "https://nextjs.org/docs/api-reference/next/router#userouter", "type": "website" },
+  { "url": "https://web.dev/custom-metrics/?utm_source=devtools", "type": "article" },
+  { "url": "https://knowledgepicker.com/r/2004/map-of-subreddits", "type": "article" },
+  { "url": "https://linear.axler.net/", "type": "website" },
+  {
+    "url": "https://auth0.com/blog/next-js-practical-introduction-for-react-developers-part-1/",
+    "type": "article"
+  },
+  { "url": "https://github.com/chakra-ui/chakra-ui/discussions/2459", "type": "object" },
+  {
+    "url": "https://egghead.io/courses/advanced-bash-automation-for-web-developers",
+    "type": "website"
+  },
+  { "url": "https://epicreact.dev/", "type": "website" },
+  { "url": "https://github.com/ndaidong/article-parser", "type": "object" },
+  { "url": "https://dndkit.com/", "type": "website" },
+  { "url": "https://epoch.org.il/geopolitics/198711/", "type": "article" },
+  { "url": "https://github.com/sindresorhus/pageres", "type": "object" },
+  { "url": "https://builtformars.com/case-studies/signing-up-to-notion", "type": "website" },
+  { "url": "https://www.expressvpn.com/features/network-lock", "type": "website" },
+  { "url": "https://searchkit.co/", "type": "website" },
+  { "url": "https://www.w3schools.com:443/js/js_debugging.asp", "type": "website" },
+  {
+    "url": "https://miro.com/blog/tips-for-putting-fun-in-functional-meetings/",
+    "type": "article"
+  },
+  {
+    "url": "https://javascript.plainenglish.io/what-is-javascript-map-8172bc42265a?gi=4e1ba1ed4f41",
+    "type": "article"
+  },
+  { "url": "http://paulgraham.com/growth.html", "type": "website" },
+  { "url": "https://maggieappleton.com/drawinginvisibles1/", "type": "article" },
+  { "url": "https://blog.hubspot.com/service/what-people-need-want", "type": "article" },
+  {
+    "url": "https://javascript.plainenglish.io/how-to-create-a-react-datepicker-c2fd3ef11369?gi=a5866b921da7",
+    "type": "article"
+  },
+  { "url": "https://stripe.com/blog/stripe-sessions-2021", "type": "website" },
+  { "url": "https://github.com/IonicaBizau/scrape-it", "type": "object" },
+  { "url": "https://www.apollographql.com/docs/tutorial/resolvers", "type": "website" },
+  { "url": "https://stripe.com/blog/stripe-extension-for-vs-code", "type": "website" },
+  { "url": "https://docs.microsoft.com/en-us/learn/paths/csharp-data/", "type": "website" },
+  {
+    "url": "https://egghead.io/courses/build-a-serverless-api-with-cloudflare-workers-d67ca551",
+    "type": "website"
+  },
+  {
+    "url": "https://www.productplan.com/learn/product-manager-vs-project-manager/",
+    "type": "article"
+  },
+  { "url": "https://github.com/sindresorhus/normalize-url", "type": "object" },
+  { "url": "https://github.com/joe-bell/next-google-fonts", "type": "object" },
+  { "url": "https://github.com/codex-team/editor.js", "type": "object" },
+  {
+    "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch04.html",
+    "type": "article"
+  },
+  {
+    "url": "https://docs.microsoft.com/en-us/learn/paths/optimize-query-performance-sql-server/",
+    "type": "website"
+  },
+  {
+    "url": "https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like",
+    "type": "website"
+  },
+  {
+    "url": "https://uxdesign.cc/10-figma-tricks-i-wish-i-knew-earlier-698e66a893f8?gi=1a42d3b4f5df",
+    "type": "article"
+  },
+  {
+    "url": "https://egghead.io/courses/introduction-to-cloudflare-workers-5aa3",
+    "type": "website"
+  },
+  {
+    "url": "https://www.edx.org/new/course/plato-socrates-and-the-birth-of-western-philosophy",
+    "type": "website"
+  },
+  { "url": "https://www.expressvpn.com/features/network-lock", "type": "website" },
+  { "url": "https://www.thechesswebsite.com/evans-gambit/", "type": "website" },
+  { "url": "https://egghead.io/q/asp-net", "type": "website" },
+  {
+    "url": "https://dribbble.com/shots/3076381/attachments/3076381-App-welcome-screen?mode=media",
+    "type": "website"
+  },
+  { "url": "https://dribbble.com/shots/9889740-Deploy-Secure-App-Landing-Page", "type": "article" },
+  {
+    "url": "https://dribbble.com/shots/7152010-Requirement-Checklist-Component",
+    "type": "video.other"
+  },
+  {
+    "url": "https://dribbble.com/shots/7862214-Interactive-Document-Editor-Prototype",
+    "type": "video.other"
+  },
+  { "url": "https://untools.co/hard-choice-model/", "type": "website" },
+  {
+    "url": "https://openculture.com/2021/02/the-open-syllabus-project-visualizes-the-1000000-books-frequently-assigned-in-college-courses.html",
+    "type": "article"
+  },
+  {
+    "url": "https://github.com/borisowsky/next-advanced-apollo-starter/blob/master/src/lib/apollo/apollo.tsx",
+    "type": "object"
+  },
+  { "url": "https://github.com/cure53/DOMPurify", "type": "object" },
+  { "url": "https://www.chessgames.com/perl/chessopening?eco=c51", "type": "website" },
+  { "url": "https://tailwindcomponents.com/", "type": "website" },
+  {
+    "url": "https://www.gemini.com/cryptopedia/nft-non-fungible-token-crypto-collectibles",
+    "type": "website"
+  },
+  { "url": "https://github.com/graphql/dataloader", "type": "object" },
+  {
+    "url": "https://www.vectary.com/?expires=1619603064&p_aid=109331&p_link=2117&p_sid=31267&p_tok=6f46a220-5758-436d-9df3-53b38ac0f2b7&status=accepted",
+    "type": "website"
+  },
+  {
+    "url": "https://www.gemini.com/cryptopedia/proof-of-stake-delegated-pos-dpos",
+    "type": "website"
+  },
+  { "url": "https://clipper.website/", "type": "website" },
+  { "url": "https://www.gemini.com/cryptopedia/polkadot-crypto-dot-coin", "type": "website" },
+  { "url": "https://calendso.com/", "type": "website" },
+  { "url": "https://react-notion.com/", "type": "website" },
+  {
+    "url": "https://blog.codewell.cc/design-resources-every-developer-should-bookmark?guid=none&deviceId=9ec44564-5e4a-4d69-9105-159e87701bc8",
+    "type": "article"
+  },
+  {
+    "url": "https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions",
+    "type": "article"
+  },
+  { "url": "https://docs.microsoft.com/en-us/dotnet/", "type": "website" },
+  { "url": "https://developer.chrome.com/docs/devtools/network/reference/", "type": "website" },
+  { "url": "https://www.figma.com:443/community/file/877084038660699458", "type": "website" },
+  { "url": "https://svpg.com/best-vs-rest/", "type": "article" },
+  { "url": "https://www.sqltutorial.org/sql-case/", "type": "article" },
+  {
+    "url": "https://medium.com/socializing-in-the-oasis/accumulating-assets-for-the-social-vr-dream-clinic-14d91dd865d0",
+    "type": "article"
+  },
+  { "url": "https://www.joinprisma.com/program", "type": "website" },
+  { "url": "https://github.com/unicodeveloper/awesome-nextjs", "type": "object" },
+  { "url": "https://graphql.org/", "type": "website" },
+  {
+    "url": "https://www.gemini.com/cryptopedia/curve-crypto-automated-market-maker",
+    "type": "website"
+  },
+  { "url": "https://github.com/GoogleChrome/rendertron", "type": "object" },
+  { "url": "https://dribbble.com/shots/5573133-Integration-setup-flow", "type": "article" },
+  { "url": "https://www.gemini.com/cryptopedia/compound-finance-defi-crypto", "type": "website" },
+  { "url": "https://github.com/roybcr/Linity/projects/1", "type": "website" },
+  { "url": "https://quick-lectures.vercel.app/blog", "type": "website" },
+  { "url": "https://postgresqltutorial.com/postgresql-intersect", "type": "website" },
+  {
+    "url": "https://dribbble.com/shots/14523001-Design-Service-Subscription-Landing-Page-Designspace",
+    "type": "article"
+  },
+  {
+    "url": "https://www.quackit.com/sql_server/mac/install_sql_server_on_a_mac.cfm",
+    "type": "website"
+  },
+  { "url": "https://jsbin.com/?html%2Cjs%2Coutput=", "type": "website" },
+  { "url": "https://pusher.com/tutorials/realtime-data-visualization-nextjs", "type": "website" },
+  { "url": "https://www.youtube.com/watch?v=Z9QbYZh1YXY", "type": "video.other" },
+  {
+    "url": "https://yoelgeva.podbean.com/e/%D7%96%D7%9B%D7%A8%D7%95%D7%9F-%D7%95%D7%A9%D7%99%D7%A0%D7%95%D7%9F",
+    "type": "article"
+  },
+  { "url": "https://github.com/YousefED/typescript-json-schema", "type": "object" },
+  {
+    "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch04.html",
+    "type": "article"
+  },
+  { "url": "https://qz.com/emails/quartz-obsession/1232247/", "type": "website" },
+  {
+    "url": "https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421?gi=ba875f1b4dd6",
+    "type": "article"
+  },
+  { "url": "https://github.com/excalidraw/excalidraw", "type": "object" },
+  {
+    "url": "https://javascript.plainenglish.io/how-to-deep-copy-objects-and-arrays-in-javascript-7c911359b089?gi=de54b32c0ac2",
+    "type": "article"
+  },
+  {
+    "url": "https://medium.com/javarevisited/5-best-docker-books-for-beginners-and-experienced-developers-5c0cc4da9230",
+    "type": "article"
+  },
+  { "url": "https://github.com/lokiuz/redraft", "type": "object" },
+  { "url": "https://learnux.io/course/figma", "type": "video.other" },
+  { "url": "https://www.entrepreneur.com/article/236522", "type": "article" },
+  { "url": "https://egghead.io/q/node", "type": "website" },
+  { "url": "https://www.classcentral.com/report/google-free-certificates", "type": "article" },
+  { "url": "https://getpocket.com/my-list", "type": "website" },
+  {
+    "url": "https://www.pluralsight.com:443/courses/modern-software-architecture-domain-models-cqrs-event-sourcing?aid=7010a000001xAKZAA2&clickid=18NzMdRZRxyLRrYwUx0Mo3EIUkES9Y1j20gdyM0&irgwc=1&mpid=259799&utm_campaign=259799&utm_medium=digital_affiliate&utm_source=impactradius",
+    "type": "website"
+  },
+  { "url": "https://www.colyseus.io/", "type": "website" },
+  { "url": "https://github.com/typestack/class-transformer", "type": "object" },
+  {
+    "url": "https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript/",
+    "type": "website"
+  },
+  { "url": "https://epoch.org.il/history/198713/", "type": "article" },
+  {
+    "url": "https://blog.sentry.io/2020/09/09/the-great-irony-of-serverless-computing/",
+    "type": "website"
+  },
+  {
+    "url": "https://blog.sentry.io/2021/02/18/series-d-moving-faster-and-not-breaking-things/",
+    "type": "website"
+  },
+  {
+    "url": "https://dribbble.com/shots/4822896/attachments/4822896-Sign-Up-Interface?mode=media",
+    "type": "website"
+  },
+  {
+    "url": "https://egghead.io/talks/egghead-marketing-tactics-for-software-developers",
+    "type": "website"
+  },
+  {
+    "url": "https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8?gi=baf680fde07c",
+    "type": "article"
+  },
+  { "url": "https://www.microsoft.com/en-us/download/details.aspx?id=101064", "type": "product" },
+  { "url": "https://blog.grandstack.io/?gi=bd8c080f1c6e", "type": "medium-com:collection" },
+  { "url": "https://github.com/sindresorhus/go", "type": "website" },
+  {
+    "url": "https://dribbble.com/shots/6274265-Gleam-Admin-Rule-Debugger-preview/attachments/1344350?mode=media",
+    "type": "website"
+  },
+  { "url": "https://gist.github.com/joepie91/7105003c3b26e65efcea63f3db82dfba", "type": "article" },
+  { "url": "https://github.com/w3tecch/express-typescript-boilerplate", "type": "object" },
+  { "url": "https://github.com/desktop/desktop", "type": "object" },
+  {
+    "url": "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-come-up-with-new-product-ideas",
+    "type": "website"
+  },
+  {
+    "url": "https://betterprogramming.pub/cleaner-typescript-with-the-non-null-assertion-operator-300789388376?gi=5e88d3b58056",
+    "type": "article"
+  },
+  { "url": "https://react-icons.github.io/react-icons/search?q=book", "type": "website" },
+  { "url": "https://miro.com/app/board/o9J_laNtLjI=/", "type": "website" },
+  {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167739X18314298",
+    "type": "article"
+  },
+  { "url": "https://www.gemini.com/cryptopedia/dot-crypto-polkadot-blockchain", "type": "website" },
+  { "url": "https://www.youtube.com/watch?t=8s&v=Kwkjp186wR0", "type": "video.other" },
+  {
+    "url": "https://www.aha.io/roadmapping/guide/product-management/what-is-a-product",
+    "type": "website"
+  },
+  {
+    "url": "https://www.udemy.com/join/login-popup/?next=/course/ios-13-app-development-bootcamp/learn/lecture/16250850",
+    "type": "website"
+  },
+  {
+    "url": "https://www.gemini.com/cryptopedia/decentralized-internet-polkadot-blockchain",
+    "type": "website"
+  },
+  {
+    "url": "https://netflixtechblog.com/graphql-search-indexing-334c92e0d8d5?gi=e0925f2cadcd",
+    "type": "article"
+  },
+  { "url": "https://www.charlesproxy.com/", "type": "website" },
+  {
+    "url": "https://www.amazon.com/Cooling-Evaporative-Materal-Breathable-Ergodyne/dp/B0092ZX6ZA/ref=sr_1_6?dchild=1&keywords=cool+hat",
+    "type": "website"
+  },
+  { "url": "https://fs.blog/mental-models/", "type": "article" },
+  {
+    "url": "https://web.archive.org/web/20170202170122if_/https://jsmantra.com/next-on-next-js-1a134505f346?gi=bab3785b0550#.bhihzecyc",
+    "type": "article"
+  },
+  {
+    "url": "https://skyebacus.com/using-the-product-backlog-to-achieve-organizational-excellence-9897c8416997?gi=42464ffe3036",
+    "type": "article"
+  },
+  { "url": "https://www.coinbase.com/learn/crypto-basics/what-is-bitcoin", "type": "website" },
+  { "url": "https://www.robinwieruch.de/react-state-array-add-update-remove/", "type": "website" },
+  {
+    "url": "https://jcpa.org.il/%D7%A1%D7%93%D7%A8-%D7%94%D7%9B%D7%95%D7%97%D7%95%D7%AA-%D7%A9%D7%9C-%D7%97%D7%9E%D7%90%D7%A1-%D7%A0%D7%A9%D7%A7-%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%9D-%D7%95%D7%9E%D7%98%D7%A8%D7%95%D7%AA/",
+    "type": "article"
+  },
+  { "url": "https://www.npmjs.com/package/node-fetch", "type": "website" },
+  {
+    "url": "https://medium.com/dailyjs/10-javascript-oneliners-you-have-got-to-add-your-arsenal-as-a-developer-b733cbb973b2",
+    "type": "article"
+  },
+  { "url": "https://github.com/fingerprintjs/external-protocol-flooding", "type": "object" },
+  { "url": "https://blog.codersera.com/blog/", "type": "website" },
+  { "url": "https://getmetastream.com/", "type": "website" },
+  { "url": "https://dribbble.com/shots/13970654-Skill-Development-Web-app", "type": "article" },
+  { "url": "https://dribbble.com/shots/10750999-Top-Online-Courses", "type": "article" },
+  {
+    "url": "https://www.popularmechanics.com/science/a35917019/large-hadron-collider-new-physics/",
+    "type": "article"
+  },
+  {
+    "url": "https://www.edx.org/course/el-valor-de-la-creatividad-y-la-innovacion-la-economia-naranja",
+    "type": "website"
+  },
+  { "url": "https://dribbble.com/shots/15463196-User-Logo-Exploration", "type": "article" },
+  {
+    "url": "https://towardsdatascience.com/the-holy-grail-of-mathematics-animated-visualization-of-the-riemann-zeta-zeros-db47c31dfce9?gi=d04d75cac68a",
+    "type": "article"
+  },
+  { "url": "https://www.khanacademy.org/humanities/whp-1750", "type": "non_profit" },
+  {
+    "url": "https://www.youtube.com/watch?index=3&list=PLQq25VykDHnsc0r5j4i71luDmNg4yB0AN&v=gLCjotiuqOA",
+    "type": "video.other"
+  },
+  { "url": "https://www.youtube.com/watch?v=MT4Ig2uqjTc", "type": "video.other" },
+  {
+    "url": "https://www.youtube.com/watch?list=PLQq25VykDHnsc0r5j4i71luDmNg4yB0AN&v=bw_EaTPoftA",
+    "type": "video.other"
+  },
+  { "url": "https://github.com/lovasoa/react-contenteditable", "type": "object" },
+  {
+    "url": "https://github.com/roybcr/desktop/blob/b92b901c8bb04e467e622015a1a563ef50f296cd/app/src/lib/fatal-error.ts",
+    "type": "object"
+  },
+  { "url": "https://fetch.spec.whatwg.org/", "type": "website" },
+  {
+    "url": "https://www.researchgate.net/publication/312827520_Learning_by_Doing_in_the_Digital_Media_Age",
+    "type": "website"
+  },
+  { "url": "https://standardnotes.com/", "type": "website" },
+  {
+    "url": "https://itnext.io/chakra-ui-react-library-built-for-speed-dcf85cf8eed6?gi=bd8b011f04a2",
+    "type": "article"
+  },
+  { "url": "https://github.com/davidhu2000/react-spinners", "type": "object" },
+  { "url": "https://github.com/TheAlgorithms/Javascript", "type": "object" },
+  { "url": "https://miro.com/blog/how-mind-map-make-researching-easier/", "type": "article" },
+  {
+    "url": "https://uxdesign.cc/visualizing-the-systems-behind-our-designs-7a7c95b4cfb2?gi=acb6921b9b7a",
+    "type": "article"
+  },
+  { "url": "https://typescript-exercises.github.io/", "type": "website" },
+  {
+    "url": "https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql",
+    "type": "website"
+  },
+  { "url": "https://epoch.org.il/psychology/198707/", "type": "article" },
+  { "url": "https://www.dbpedia.org/", "type": "website" },
+  {
+    "url": "https://academy.binance.com/en/articles/5-nft-projects-you-should-know",
+    "type": "article"
+  },
+  { "url": "https://dribbble.com/shots/9739867-Online-courses-Landing-page", "type": "article" },
+  { "url": "https://egghead.io/q/next", "type": "website" },
+  { "url": "https://github.com/sqlmapproject/sqlmap", "type": "object" },
+  {
+    "url": "https://app.contextminds.com/mapsearch/search?_ga=2.113837895.1323700941.1620999949-1933341017.1620999949&tags%5B%5D=edu-history&text=edu-history",
+    "type": "website"
+  },
+  {
+    "url": "https://github.com/ionic-team/ionic-framework/blob/master/core/src/utils/input-shims/hacks/scroll-data.ts",
+    "type": "object"
+  },
+  { "url": "https://segment.com/pricing/", "type": "website" },
+  { "url": "https://www.classcentral.com/list/learn-sql-1qwksrn9d", "type": "website" },
+  {
+    "url": "https://netflixtechblog.com/a-day-in-the-life-of-an-experimentation-and-causal-inference-scientist-netflix-388edfb77d21?gi=2145e21e8714",
+    "type": "article"
+  },
+  {
+    "url": "https://miro.com/blog/facilitate-successful-breakout-group-session/",
+    "type": "article"
+  },
+  { "url": "https://www.belfercenter.org/CyberPlaybook", "type": "website" },
+  { "url": "https://dribbble.com/shots/9354590-Design-Courses-Landing-Page", "type": "article" },
+  { "url": "https://docs.ethers.io/v5/", "type": "website" },
+  {
+    "url": "https://www.quora.com/What-is-a-day-in-the-life-of-a-Product-Manager-like",
+    "type": "website"
+  },
+  {
+    "url": "https://levelup.gitconnected.com/how-to-use-react-js-to-create-chrome-extension-in-5-minutes-2ddb11899815?gi=8fda56a3619a",
+    "type": "article"
+  },
+  { "url": "https://www.figma.com:443/community/explore?tab=creators", "type": "website" },
+  {
+    "url": "https://dribbble.com/shots/11366194-Online-Course-Platform-Dashboard",
+    "type": "article"
+  },
+  { "url": "https://www.meetup.com/", "type": "article" },
+  {
+    "url": "https://javascript.plainenglish.io/build-better-react-apps-with-next-js-d7bc7b495006?gi=f39799d1d42f",
+    "type": "article"
+  },
+  { "url": "https://www.designbetter.co/enterprise-design-sprints", "type": "website" },
+  { "url": "https://docs.microsoft.com/en-us/samples/browse/", "type": "website" },
+  { "url": "http://paulgraham.com/pinch.html", "type": "website" },
+  { "url": "https://www.udemy.com/course/ios-13-app-development-bootcamp/", "type": "mult" },
+  {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types",
+    "type": "object"
+  },
+  {
+    "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/cover.html",
+    "type": "article"
+  },
+  {
+    "url": "https://www.pluralsight.com:443/courses/react-big-picture?aid=7010a000001xAKZAA2&clickid=18NzMdRZRxyLRrYwUx0Mo3EIUkES9Y1620gdyM0&irgwc=1&mpid=259799&utm_campaign=259799&utm_medium=digital_affiliate&utm_source=impactradius",
+    "type": "website"
+  },
+  {
+    "url": "https://gizmodo.com/this-new-app-lets-you-turn-anything-and-everything-into-1846743689",
+    "type": "article"
+  },
+  { "url": "https://www.mylesdunphy.com/blog/crypto-update", "type": "website" },
+  { "url": "https://github.com/ChALkeR/notes", "type": "object" },
+  {
+    "url": "https://www.interaction-design.org/literature/article/design-thinking-essential-problem-solving-101-it-s-more-than-scientific",
+    "type": "article"
+  },
+  { "url": "https://plato.stanford.edu/entries/spacetime-singularities/", "type": "website" },
+  {
+    "url": "https://en.chessbase.com/post/john-nunn-learn-to-play-the-evans-gambit",
+    "type": "article"
+  },
+  {
+    "url": "https://www.gemini.com/cryptopedia/bitcoin-satoshi-nakamoto-genesis",
+    "type": "website"
+  },
+  {
+    "url": "https://towardsdatascience.com/math-animations-irreproducible-research-and-telling-stories-with-data-d9b55aa3887b?gi=8a518f4f57b1",
+    "type": "article"
+  },
+  { "url": "https://the-guild.dev/blog/graphql-with-typescript-done-right", "type": "website" },
+  { "url": "https://miro.com/blog/how-to-create-ux-research-roadmaps/", "type": "article" },
+  { "url": "https://getpolarized.io/", "type": "website" },
+  {
+    "url": "https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458?gi=e32c8034371",
+    "type": "article"
+  },
+  {
+    "url": "https://www.lucidchart.com/pages/database-diagram/database-design",
+    "type": "discovery"
+  },
+  {
+    "url": "https://www.classcentral.com/course/complexity-and-uncertainty-2218",
+    "type": "website"
+  },
+  { "url": "https://github.com/apostrophecms/sanitize-html", "type": "object" },
+  { "url": "https://looka.com/logo-maker/", "type": "article" },
+  { "url": "https://github.com/ethers-io/ethers.js", "type": "object" },
+  { "url": "https://techvomit.net/web-application-penetration-testing-notes/", "type": "article" },
+  { "url": "https://miro.com/blog/recap-of-distributed-2020/", "type": "article" },
+  { "url": "https://github.com/premieroctet/openchakra", "type": "object" },
+  { "url": "https://egghead.io/courses/wrangle-your-terminal-with-tmux", "type": "website" },
+  {
+    "url": "https://betterprogramming.pub/how-to-write-a-useful-instance-counter-in-python-9eee1761c3c7?gi=a29b9667738c",
+    "type": "article"
+  },
+  { "url": "https://stripe.com/blog/payment-api-design", "type": "website" },
+  {
+    "url": "https://blog.sentry.io/2020/06/11/get-a-jump-on-errors-with-sentry-and-atlassian-solutions/",
+    "type": "website"
+  },
+  {
+    "url": "https://qz.com/work/2020612/watch-how-to-get-the-most-out-of-a-hybrid-work-environment/",
+    "type": "article"
+  },
+  { "url": "https://www.postgresql.org/docs/9.5/functions-json.html", "type": "article" },
+  { "url": "https://daybrush.com/moveable/", "type": "website" },
+  {
+    "url": "https://productschool.com/blog/data-analytics/the-difference-qualitative-vs-quantitative-data/",
+    "type": "article"
+  },
+  {
+    "url": "https://uxplanet.org/is-your-ui-messy-7-common-mistakes-to-avoid-31ae18689b61?gi=f3dbf225a57c",
+    "type": "article"
+  },
+  { "url": "https://untools.co/second-order-thinking/", "type": "website" },
+  { "url": "https://uigarage.net/", "type": "website" },
+  {
+    "url": "https://www.nytimes.com/2021/04/14/technology/alexa-virtual-assistant-health-care.html",
+    "type": "article"
+  },
+  { "url": "https://www.springer.com/us/book/9783319110790", "type": "book" },
+  { "url": "https://epoch.org.il/science-and-technology/234321/", "type": "article" },
+  {
+    "url": "https://miro.com/aq/ps/mind-map-software-new/?gclid=CjwKCAjwn6GGBhADEiwAruUcKrqIICqr9JeZrNI4wf00MxO3aPGjyDDeX0hwU0ZoqnqQEWIPROwXfRoCKsoQAvD_BwE&utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DS%7CGOO%7CNB%7CTier2%7CALL-EN%7CCore%26utm_adgroup=mindmap%26utm_custom%3D12123522200%26utm_content%3D492751716191%26utm_term%3Dmindmaps%26matchtype%3De%26device%3Dc%26location%3D1008002",
+    "type": "website"
+  },
+  {
+    "url": "https://www.fastcompany.com/90631452/remote-work-made-digital-nomads-possible-the-pandemic-made-them-essential",
+    "type": "article"
+  },
+  { "url": "https://www.edx.org/micromasters/ubcx-software-development", "type": "website" },
+  {
+    "url": "https://dribbble.com/shots/13944513-Team-Chat-App-VisualExploration",
+    "type": "article"
+  },
+  { "url": "https://datahubproject.io/", "type": "website" },
+  { "url": "https://productschool.com/product-glossary/", "type": "article" },
+  { "url": "https://www.tensorflow.org/js/", "type": "website" },
+  { "url": "https://www.youtube.com/watch?v=8mve0UoSxTo", "type": "video.other" },
+  { "url": "https://www.youtube.com/watch?v=MT4Ig2uqjTc&feature=youtu.be", "type": "video.other" },
+  {
+    "url": "https://codeburst.io/best-udemy-courses-for-learning-full-stack-web-development-45e2bd3ec28b?gi=79f9c6008f20",
+    "type": "article"
+  },
+  { "url": "https://www.designbetter.co/design-engineering-handbook", "type": "website" },
+  {
+    "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch05.html",
+    "type": "article"
+  },
+  { "url": "https://getmemex.com/", "type": "website" },
+  {
+    "url": "https://itnext.io/top-33-javascript-projects-on-github-december-2020-e35f3a68387e?gi=cc90eefebf67",
+    "type": "article"
+  },
+  { "url": "https://epoch.org.il/science-and-technology/198715/", "type": "article" },
+  {
+    "url": "https://codeburst.io/deploying-a-react-app-using-github-pages-and-github-actions-7fc14d380796?gi=8e5a10f7a144",
+    "type": "article"
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s00780-007-0053-5?error=cookies_not_supported&code=4a0522e3-e400-433c-9a7f-3d3eb2f73772",
+    "type": "article"
+  },
+  {
+    "url": "https://www.apollographql.com/docs/apollo-server/data/data-sources",
+    "type": "website"
+  },
+  {
+    "url": "https://uxdesign.cc/ditch-your-roadmap-for-a-product-landscape-36bf8ec7b352?gi=1488c2774149",
+    "type": "article"
+  },
+  {
+    "url": "https://www.designbetter.co/design-systems-handbook/introducing-design-systems",
+    "type": "website"
+  },
+  { "url": "https://github.com/jiayihu/pretty-algorithms", "type": "object" },
+  { "url": "https://venngage.com/blog/user-persona-examples/", "type": "article" },
+  {
+    "url": "https://www.coursera.org/learn/learning-how-to-learn?ranEAID=SAyYsTvLiGQ&ranMID=40328&ranSiteID=SAyYsTvLiGQ-n5FIwxOr9WoUv9yeWg1SzQ&siteID=SAyYsTvLiGQ-n5FIwxOr9WoUv9yeWg1SzQ&utm_campaign=SAyYsTvLiGQ&utm_content=10&utm_medium=partners&utm_source=linkshare",
+    "type": "website"
+  },
+  { "url": "https://www.reddit.com/", "type": "website" },
+  { "url": "https://epoch.org.il/history/198705/", "type": "article" },
+  {
+    "url": "https://netflixtechblog.com/growth-engineering-at-netflix-creating-a-scalable-offers-platform-69330136dd87?gi=9486fef8ba61",
+    "type": "article"
+  },
+  { "url": "https://pro.chakra-ui.com/components/application-ui/tables", "type": "article" },
+  { "url": "https://www.magicpattern.design/", "type": "website" },
+  {
+    "url": "https://www.gemini.com/cryptopedia/how-does-bitcoin-work-blockchain-halving",
+    "type": "website"
+  },
+  {
+    "url": "https://blog.producthunt.com/0-design-tools-for-your-startup-d4240fbb726f?gi=7b028bd38f2b",
+    "type": "article"
+  },
+  {
+    "url": "https://datascience2.medium.com/how-to-train-an-lstm-model-30x-faster-using-pytorch-with-gpu-e6bcd3134c86",
+    "type": "article"
+  },
+  {
+    "url": "https://www.gemini.com/blog/oxt-link-bat-dai-trading-now-available",
+    "type": "website"
+  },
+  {
+    "url": "https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md",
+    "type": "object"
+  },
+  { "url": "https://www.invisionapp.com/design-better/design-maturity-model/", "type": "website" },
+  {
+    "url": "https://netflixtechblog.com/remote-workstations-for-the-discerning-artists-8155a8fbd190?gi=b391cf37ce1a",
+    "type": "article"
+  },
+  {
+    "url": "https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd",
+    "type": "website"
+  },
+  {
+    "url": "https://gist.github.com/robertvrabel/7f878cebd0e62ec9ed0cb2779a3097a9",
+    "type": "article"
+  },
+  { "url": "https://github.com/maticzav/graphql-shield", "type": "object" },
+  { "url": "https://www.youtube.com/watch?v=9TycLR0TqFA", "type": "video.other" },
+  {
+    "url": "https://books.google.co.uk/books?id=vqTfNFDzzdIC&pg=PA121&source=gbs_selected_pages&cad=2#v=onepage&q&f=false",
+    "type": "book"
+  },
+  { "url": "https://brandmark.io/", "type": "website" },
+  {
+    "url": "https://medium.com/the-big-bull/elon-musk-just-devastated-bitcoin-with-a-single-tweet-ff71612a7971",
+    "type": "article"
+  },
+  { "url": "https://academy.binance.com/en/articles/what-is-an-eclipse-attack", "type": "article" },
+  {
+    "url": "https://www.pluralsight.com:443/courses/ethical-hacking-understanding?aid=7010a000001xAKZAA2&clickid=18NzMdRZRxyLRrYwUx0Mo3EIUkES9YwD20gdyM0&irgwc=1&mpid=259799&utm_campaign=259799&utm_medium=digital_affiliate&utm_source=impactradius",
+    "type": "website"
+  },
+  {
+    "url": "https://github.com/ionic-team/ionic-framework/blob/master/core/scripts/screenshot/ci.js",
+    "type": "object"
+  },
+  {
+    "url": "https://www.expressvpn.com/blog/how-to-set-up-your-own-home-server/",
+    "type": "article"
+  },
+  {
+    "url": "https://medium.nextlevelswift.com/build-an-app-like-lego-with-swiftui-tutorial-5-35859ca30908?gi=28b351321e5b",
+    "type": "article"
+  },
+  {
+    "url": "https://medium.nextlevelswift.com/build-an-app-like-lego-with-swiftui-tutorial-4-d5bb078749e1?gi=83adbd88a6c3",
+    "type": "article"
+  },
+  { "url": "http://playground.tensorflow.org/", "type": "article" },
+  { "url": "https://shoelace.style/", "type": "website" },
+  { "url": "https://www.designbetter.co/design-systems-handbook", "type": "website" },
+  { "url": "https://developer.okta.com/books/api-security/sanitizing/", "type": "website" },
+  { "url": "https://maggieappleton.com/api/", "type": "article" },
+  {
+    "url": "https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749?gi=6471dd58d3ef",
+    "type": "article"
+  },
+  {
+    "url": "https://levelup.gitconnected.com/the-internet-may-be-seeing-a-paradigm-shift-fd525ed30e73?gi=99bc80c5c9e8",
+    "type": "article"
+  },
+  { "url": "https://stenciljs.com/", "type": "website" },
+  { "url": "https://github.com/bcherny/json-schema-to-typescript", "type": "object" },
+  {
+    "url": "https://medium.datadriveninvestor.com/are-we-in-a-stock-market-bubble-c905bf3f3405?gi=6f5894eb2c4b",
+    "type": "article"
+  },
+  { "url": "https://github.com/substack/safe-regex", "type": "object" },
+  { "url": "https://miro.com/blog/jira-in-miro-with-blue-label-labs/", "type": "article" },
+  {
+    "url": "https://epoch.org.il/issues/%D7%92%D7%99%D7%9C%D7%99%D7%95%D7%9F-321-%D7%97%D7%99%D7%93%D7%AA-%D7%94%D7%9E%D7%97%D7%A8/",
+    "type": "article"
+  },
+  {
+    "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html",
+    "type": "article"
+  },
+  { "url": "https://github.com/fuzzdb-project/fuzzdb", "type": "object" },
+  { "url": "https://css-tricks.com/flat-icons-icon-fonts/", "type": "article" },
+  {
+    "url": "https://www.tortilla.academy/urigo/whatsapp-clone-tutorial/master/next/step/7/",
+    "type": "website"
+  },
+  {
+    "url": "https://www.nytimes.com/2021/04/14/science/pterosaurs-necks-azhdarchids.html",
+    "type": "article"
+  },
+  {
+    "url": "https://iohk.io/en/blog/posts/2021/02/04/native-tokens-to-bring-new-utility-to-life-on-cardano/",
+    "type": "website"
+  },
+  { "url": "https://tyrrrz.me/blog/expression-trees/", "type": "website" },
+  {
+    "url": "https://codersera.com/blog/nestjs-typeorm-graphql-dataloader-tutorial-with-typescript/",
+    "type": "article"
+  },
+  { "url": "https://www.oreilly.com/radar/oreilly-2020-platform-analysis/", "type": "article" },
+  { "url": "https://www.oreilly.com/radar/the-death-of-agile/", "type": "article" },
+  { "url": "https://developer.twitter.com/en/docs", "type": "article" }
+]
